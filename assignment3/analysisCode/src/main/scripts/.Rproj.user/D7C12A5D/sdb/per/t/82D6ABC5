@@ -1,0 +1,17 @@
+{
+    "contents" : "\nlibrary(ggplot2)\n\nCompareAll <- function(srcRoot, outputPng){\n  matrix <- read.csv(srcRoot)\n  ggplot(matrix,aes(From,To)) + geom_tile(aes(fill=Overlap)) + theme(axis.text.x=element_text(angle=90, size=8),axis.text.y=element_text(size=8))\n  ggsave(file=outputPng)\n}\n\nCompareDetailed <- function(csvFile, outputPng){\n  detailed <- read.csv(csvFile,header=T)\n  ggplot(detailed,aes(FromLine,ToLine)) + geom_tile(aes(fill=Match)) + theme(axis.text.x=element_text(angle=90, size=8),axis.text.y=element_text(size=8))\n  ggsave(file=outputPng)\n}\n",
+    "created" : 1510048442728.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2746226636",
+    "id" : "82D6ABC5",
+    "lastKnownWriteTime" : 1510131654,
+    "path" : "~/OneDrive - University of Leicester/Teaching/Reengineering/201718/practicalWork/StaticAnalysisLab/src/main/scripts/fileComparisonScripts.R",
+    "project_path" : "fileComparisonScripts.R",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "type" : "r_source"
+}

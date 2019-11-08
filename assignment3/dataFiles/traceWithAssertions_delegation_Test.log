@@ -1,0 +1,2604 @@
+junit.runner.Version id  4
+org.assertj.core.api.Condition as newDescription args  13
+org.assertj.core.util.Arrays isNullOrEmpty array  15
+org.assertj.core.util.Arrays isEmpty array  16
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  30
+com.sun.proxy.$Proxy1 annotationType  22
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy1 annotationType  25
+com.sun.proxy.$Proxy3 annotationType  15
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_setAllowExtractingPrivateFields_Test  31
+org.assertj.core.api.WithAssertions setAllowExtractingPrivateFields allowExtractingPrivateFields  32
+org.assertj.core.api.Assertions setAllowExtractingPrivateFields allowExtractingPrivateFields  33
+org.assertj.core.util.introspection.FieldSupport extraction  34
+org.assertj.core.util.introspection.FieldSupport setAllowUsingPrivateFields allowUsingPrivateFields  34
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_useDefaultDateFormatsOnly_Test  31
+org.assertj.core.api.WithAssertions useDefaultDateFormatsOnly  32
+org.assertj.core.api.Assertions useDefaultDateFormatsOnly  33
+org.assertj.core.util.DateUtil newIsoDateFormat  36
+org.assertj.core.util.DateUtil strictDateFormatForPattern pattern  37
+org.assertj.core.util.DateUtil newIsoDateTimeFormat  36
+org.assertj.core.util.DateUtil strictDateFormatForPattern pattern  37
+org.assertj.core.util.DateUtil newIsoDateTimeWithMsFormat  36
+org.assertj.core.util.DateUtil strictDateFormatForPattern pattern  37
+org.assertj.core.util.DateUtil newIsoDateTimeWithMsFormat  35
+org.assertj.core.util.DateUtil strictDateFormatForPattern pattern  36
+org.assertj.core.util.DateUtil newTimestampDateFormat  35
+org.assertj.core.util.DateUtil strictDateFormatForPattern pattern  36
+org.assertj.core.util.DateUtil newIsoDateTimeFormat  35
+org.assertj.core.util.DateUtil strictDateFormatForPattern pattern  36
+org.assertj.core.util.DateUtil newIsoDateFormat  35
+org.assertj.core.util.DateUtil strictDateFormatForPattern pattern  36
+org.assertj.core.util.Lists newArrayList elements  35
+org.assertj.core.util.Lists newArrayList  36
+org.assertj.core.api.AbstractDateAssert useDefaultDateFormatsOnly  34
+null initialValue  38
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_char_sequence_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForInterfaceTypes assertThat actual  34
+org.assertj.core.internal.StandardComparisonStrategy instance  40
+org.assertj.core.util.introspection.PropertySupport instance  41
+org.assertj.core.util.Compatibility.System lineSeparator  42
+org.assertj.core.internal.Failures instance  41
+org.assertj.core.util.introspection.FieldSupport comparison  41
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Failures instance  40
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.util.Compatibility.System lineSeparator  42
+org.assertj.core.configuration.Services get serviceType defaultValue  41
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.StandardComparisonStrategy instance  39
+org.assertj.core.internal.Failures instance  40
+org.assertj.core.internal.Strings instance  37
+org.assertj.core.api.AbstractCharSequenceAssert startsWith prefix  32
+org.assertj.core.internal.Strings assertStartsWith info actual prefix  33
+org.assertj.core.internal.Strings failIfPrefixIsNull prefix  34
+org.assertj.core.util.Preconditions checkNotNull reference message  35
+org.assertj.core.internal.Strings assertNotNull info actual  34
+org.assertj.core.internal.Objects instance  35
+org.assertj.core.internal.Objects assertNotNull info actual  35
+org.assertj.core.internal.StandardComparisonStrategy stringStartsWith string prefix  34
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_offset_Double_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  39
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.StandardComparisonStrategy instance  40
+org.assertj.core.internal.Failures instance  41
+org.assertj.core.internal.Comparables instance  38
+org.assertj.core.internal.StandardComparisonStrategy instance  42
+org.assertj.core.internal.Failures instance  43
+org.assertj.core.internal.Doubles instance  37
+org.assertj.core.api.WithAssertions offset value  32
+org.assertj.core.api.Assertions offset value  33
+org.assertj.core.data.Offset offset value  34
+org.assertj.core.util.Preconditions checkNotNull reference  35
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  35
+org.assertj.core.api.AbstractDoubleAssert isEqualTo expected offset  32
+org.assertj.core.internal.RealNumbers assertEqual info actual expected offset  33
+org.assertj.core.internal.Numbers assertIsCloseTo info actual expected offset  34
+org.assertj.core.internal.Comparables assertNotNull info actual  35
+org.assertj.core.internal.Objects instance  36
+org.assertj.core.internal.Objects assertNotNull info actual  36
+org.assertj.core.internal.Failures instance  36
+org.assertj.core.internal.CommonValidations checkOffsetIsNotNull offset  35
+org.assertj.core.util.Preconditions checkNotNull reference message  36
+org.assertj.core.internal.CommonValidations checkNumberIsNotNull number  35
+org.assertj.core.util.Preconditions checkNotNull reference message  36
+org.assertj.core.util.Objects areEqual o1 o2  35
+org.assertj.core.util.Objects areEqualArrays o1 o2  36
+org.assertj.core.util.Arrays isArray o  37
+org.assertj.core.internal.Doubles absDiff actual other  36
+org.assertj.core.internal.RealNumbers isGreaterThan value other  35
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_uri_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.Failures instance  39
+org.assertj.core.internal.Uris instance  37
+org.assertj.core.api.AbstractUriAssert hasHost expected  32
+org.assertj.core.internal.Uris assertHasHost info actual expected  33
+org.assertj.core.internal.Comparables assertNotNull info actual  34
+org.assertj.core.internal.Objects instance  35
+org.assertj.core.internal.Objects assertNotNull info actual  35
+org.assertj.core.util.Objects areEqual o1 o2  34
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_iterable_assert_class_Test  31
+org.assertj.core.api.WithAssertions assertThat actual assertClass  32
+org.assertj.core.api.Assertions assertThat actual assertClass  33
+org.assertj.core.api.AssertionsForInterfaceTypes assertThat actual assertClass  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.StandardComparisonStrategy instance  39
+org.assertj.core.internal.Failures instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.internal.Failures instance  42
+org.assertj.core.internal.Predicates instance  40
+org.assertj.core.internal.Iterables instance  37
+org.assertj.core.api.AbstractIterableAssert first  32
+org.assertj.core.api.AbstractIterableAssert isNotEmpty  33
+org.assertj.core.internal.Iterables assertNotEmpty info actual  34
+org.assertj.core.internal.Iterables assertNotNull info actual  35
+org.assertj.core.internal.Objects instance  36
+org.assertj.core.internal.Objects assertNotNull info actual  36
+org.assertj.core.util.IterableUtil isNullOrEmpty iterable  35
+org.assertj.core.api.AbstractIterableAssert navigationDescription propertyName  33
+org.assertj.core.api.AbstractAssert descriptionText  34
+org.assertj.core.api.WritableAssertionInfo descriptionText  35
+org.assertj.core.util.Strings isNullOrEmpty s  34
+org.assertj.core.api.AbstractIterableAssert removeAssert text  34
+org.assertj.core.api.ClassBasedNavigableIterableAssert toAssert value description  33
+org.assertj.core.api.ClassBasedNavigableIterableAssert buildAssert value description clazz  34
+org.assertj.core.internal.Objects instance  42
+org.assertj.core.internal.Conditions instance  42
+org.assertj.core.configuration.ConfigurationProvider representation  43
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  43
+org.assertj.core.util.Preconditions checkNotNull reference message  44
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  41
+org.assertj.core.internal.TypeComparators put clazz comparator  42
+org.assertj.core.internal.TypeComparators put clazz comparator  42
+org.assertj.core.api.AbstractObjectAssert as description args  36
+org.assertj.core.api.AbstractAssert as description args  37
+org.assertj.core.api.AbstractAssert describedAs description args  38
+org.assertj.core.api.WritableAssertionInfo description newDescription args  39
+org.assertj.core.util.Arrays isNullOrEmpty array  41
+org.assertj.core.util.Arrays isEmpty array  42
+org.assertj.core.api.AbstractAssert isEqualTo expected  32
+org.assertj.core.internal.Objects assertEqual info actual expected  33
+org.assertj.core.internal.Objects areEqual actual other  34
+org.assertj.core.internal.StandardComparisonStrategy areEqual actual other  35
+org.assertj.core.util.Objects areEqual o1 o2  36
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_throwable_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  39
+org.assertj.core.internal.Conditions instance  39
+org.assertj.core.configuration.ConfigurationProvider representation  40
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  40
+org.assertj.core.util.Preconditions checkNotNull reference message  41
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  38
+org.assertj.core.internal.TypeComparators put clazz comparator  39
+org.assertj.core.internal.TypeComparators put clazz comparator  39
+org.assertj.core.internal.Failures instance  39
+org.assertj.core.internal.Throwables instance  37
+org.assertj.core.api.AbstractAssert isNotNull  32
+org.assertj.core.internal.Objects assertNotNull info actual  33
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_url_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.Failures instance  39
+org.assertj.core.internal.Urls instance  37
+org.assertj.core.api.AbstractUrlAssert hasHost expected  32
+org.assertj.core.internal.Urls assertHasHost info actual expected  33
+org.assertj.core.internal.Comparables assertNotNull info actual  34
+org.assertj.core.internal.Objects instance  35
+org.assertj.core.internal.Objects assertNotNull info actual  35
+org.assertj.core.util.Objects areEqual o1 o2  34
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 expected  25
+com.sun.proxy.$Proxy1 expected  25
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_failBecauseExceptionWasNotThrown_Test  32
+org.assertj.core.api.WithAssertions failBecauseExceptionWasNotThrown throwableClass  33
+org.assertj.core.api.Assertions failBecauseExceptionWasNotThrown throwableClass  34
+org.assertj.core.api.Fail shouldHaveThrown throwableClass  35
+org.assertj.core.internal.Failures instance  36
+org.assertj.core.internal.Failures expectedThrowableNotThrown throwableClass  36
+org.assertj.core.internal.Failures failure message  37
+org.assertj.core.internal.Failures removeAssertJRelatedElementsFromStackTraceIfNeeded assertionError  38
+org.assertj.core.util.Throwables removeAssertJRelatedElementsFromStackTrace throwable  39
+org.assertj.core.util.Lists newArrayList elements  40
+org.assertj.core.util.Lists newArrayList  41
+org.assertj.core.internal.Failures printThreadDumpIfNeeded  38
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_local_date_time_Test  31
+org.assertj.core.api.WithAssertions assertThat localDateTime  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  39
+org.assertj.core.internal.Conditions instance  39
+org.assertj.core.configuration.ConfigurationProvider representation  40
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  40
+org.assertj.core.util.Preconditions checkNotNull reference message  41
+org.assertj.core.internal.StandardComparisonStrategy instance  39
+org.assertj.core.internal.Failures instance  40
+org.assertj.core.api.AbstractAssert isNotNull  32
+org.assertj.core.internal.Objects assertNotNull info actual  33
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  37
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.api.AbstractAssert isNotNull  32
+org.assertj.core.internal.Objects assertNotNull info actual  33
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_predicate_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForInterfaceTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.Iterables instance  37
+org.assertj.core.api.PredicateAssert accepts values  32
+org.assertj.core.api.AbstractPredicateAssert accepts values  33
+org.assertj.core.api.AbstractAssert isNotNull  34
+org.assertj.core.internal.Objects assertNotNull info actual  35
+org.assertj.core.api.WithAssertions_delegation_Test lambda$4 b  34
+org.assertj.core.util.Lists newArrayList elements  34
+org.assertj.core.util.Lists newArrayList  35
+org.assertj.core.internal.Iterables assertAllMatch info actual predicate predicateDescription  34
+org.assertj.core.internal.Iterables assertNotNull info actual  35
+org.assertj.core.internal.Objects instance  36
+org.assertj.core.internal.Objects assertNotNull info actual  36
+org.assertj.core.internal.Predicates assertIsNotNull predicate  35
+org.assertj.core.util.Preconditions checkNotNull reference message  36
+org.assertj.core.api.WithAssertions_delegation_Test lambda$4 b  43
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_boolean_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.Failures instance  39
+org.assertj.core.internal.Booleans instance  37
+org.assertj.core.api.AbstractBooleanAssert isTrue  32
+org.assertj.core.api.AbstractBooleanAssert isEqualTo expected  33
+org.assertj.core.internal.Booleans assertEqual info actual expected  34
+org.assertj.core.internal.Booleans assertNotNull info actual  35
+org.assertj.core.internal.Objects instance  36
+org.assertj.core.internal.Objects assertNotNull info actual  36
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.Booleans instance  37
+org.assertj.core.api.AbstractBooleanAssert isTrue  32
+org.assertj.core.api.AbstractBooleanAssert isEqualTo expected  33
+org.assertj.core.internal.Booleans assertEqual info actual expected  34
+org.assertj.core.internal.Booleans assertNotNull info actual  35
+org.assertj.core.internal.Objects instance  36
+org.assertj.core.internal.Objects assertNotNull info actual  36
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 expected  25
+com.sun.proxy.$Proxy1 expected  25
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_linesOf_Test  32
+org.assertj.core.api.WithAssertions linesOf file  33
+org.assertj.core.api.Assertions linesOf file  34
+org.assertj.core.util.Files linesOf file charset  35
+org.assertj.core.util.Preconditions checkNotNull reference message  36
+org.assertj.core.util.Files loadLines file charset  36
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_integer_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  39
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.Comparables instance  38
+org.assertj.core.internal.StandardComparisonStrategy instance  41
+org.assertj.core.internal.Failures instance  42
+org.assertj.core.internal.Integers instance  37
+org.assertj.core.api.AbstractComparableAssert isGreaterThan other  32
+org.assertj.core.internal.Comparables assertGreaterThan info actual other  33
+org.assertj.core.internal.Comparables assertNotNull info actual  34
+org.assertj.core.internal.Objects instance  35
+org.assertj.core.internal.Objects assertNotNull info actual  35
+org.assertj.core.internal.Comparables isGreaterThan actual other  34
+org.assertj.core.internal.StandardComparisonStrategy isGreaterThan actual other  35
+org.assertj.core.internal.StandardComparisonStrategy checkArgumentIsComparable actual  36
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  37
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_filter_array_Test  31
+org.assertj.core.api.WithAssertions filter array  32
+org.assertj.core.api.Assertions filter array  33
+org.assertj.core.api.filter.Filters filter array  34
+org.assertj.core.util.Preconditions checkNotNull reference message  35
+org.assertj.core.util.Lists newArrayList elements  36
+org.assertj.core.util.Lists newArrayList  37
+org.assertj.core.util.introspection.PropertySupport instance  39
+org.assertj.core.util.introspection.FieldSupport extraction  39
+org.assertj.core.util.introspection.PropertySupport instance  38
+org.assertj.core.util.Lists newArrayList elements  37
+org.assertj.core.util.Lists newArrayList  38
+org.assertj.core.api.filter.Filters with propertyOrFieldName  32
+org.assertj.core.api.filter.Filters validatePropertyOrFieldName propertyOrFieldName  33
+org.assertj.core.util.Strings isNullOrEmpty s  34
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  34
+org.assertj.core.api.filter.Filters equalsTo propertyValue  32
+org.assertj.core.api.filter.Filters checkPropertyNameToFilterOnIsNotNull  33
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  34
+org.assertj.core.util.introspection.PropertyOrFieldSupport getValueOf propertyOrFieldName input  33
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  34
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  34
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  34
+org.assertj.core.util.introspection.PropertyOrFieldSupport isNested propertyOrFieldName  34
+org.assertj.core.util.introspection.PropertyOrFieldSupport getSimpleValue propertyOrFieldName input  34
+org.assertj.core.util.introspection.PropertySupport propertyValueOf propertyName clazz target  35
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  36
+org.assertj.core.util.introspection.PropertySupport isNestedProperty propertyName  36
+org.assertj.core.util.introspection.PropertySupport propertyValue propertyName clazz target  36
+org.assertj.core.util.introspection.Introspection getPropertyGetter propertyName target  37
+org.assertj.core.util.Preconditions checkNotNullOrEmpty s  38
+org.assertj.core.util.Preconditions checkNotNullOrEmpty s message  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.util.Preconditions checkNotNull reference  38
+org.assertj.core.util.introspection.Introspection findGetter propertyName target  38
+org.assertj.core.util.introspection.Introspection findMethod name target  39
+org.assertj.core.api.WithAssertions_delegation_Test.TestItem getName  42
+org.assertj.core.api.WithAssertions_delegation_Test.TestItem getName  41
+org.assertj.core.util.Objects areEqual o1 o2  33
+org.assertj.core.util.introspection.PropertyOrFieldSupport getValueOf propertyOrFieldName input  33
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  34
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  34
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  34
+org.assertj.core.util.introspection.PropertyOrFieldSupport isNested propertyOrFieldName  34
+org.assertj.core.util.introspection.PropertyOrFieldSupport getSimpleValue propertyOrFieldName input  34
+org.assertj.core.util.introspection.PropertySupport propertyValueOf propertyName clazz target  35
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  36
+org.assertj.core.util.introspection.PropertySupport isNestedProperty propertyName  36
+org.assertj.core.util.introspection.PropertySupport propertyValue propertyName clazz target  36
+org.assertj.core.util.introspection.Introspection getPropertyGetter propertyName target  37
+org.assertj.core.util.Preconditions checkNotNullOrEmpty s  38
+org.assertj.core.util.Preconditions checkNotNullOrEmpty s message  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.util.Preconditions checkNotNull reference  38
+org.assertj.core.util.introspection.Introspection findGetter propertyName target  38
+org.assertj.core.util.introspection.Introspection findMethod name target  39
+org.assertj.core.api.WithAssertions_delegation_Test.TestItem getName  42
+org.assertj.core.api.WithAssertions_delegation_Test.TestItem getName  41
+org.assertj.core.util.Objects areEqual o1 o2  33
+org.assertj.core.util.Objects areEqualArrays o1 o2  34
+org.assertj.core.util.Arrays isArray o  35
+org.assertj.core.api.filter.Filters get  32
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.Iterables instance  37
+org.assertj.core.api.IterableAssert containsExactly values  32
+org.assertj.core.api.AbstractIterableAssert containsExactly values  33
+org.assertj.core.internal.Iterables assertContainsExactly info actual values  34
+org.assertj.core.internal.CommonValidations checkIsNotNull values  35
+org.assertj.core.internal.Iterables assertNotNull info actual  35
+org.assertj.core.internal.Objects instance  36
+org.assertj.core.internal.Objects assertNotNull info actual  36
+org.assertj.core.util.IterableUtil sizeOf iterable  35
+org.assertj.core.util.Preconditions checkNotNull reference message  36
+org.assertj.core.internal.Iterables assertHasSameSizeAs info actual other  35
+org.assertj.core.internal.Iterables assertNotNull info actual  36
+org.assertj.core.internal.Objects instance  37
+org.assertj.core.internal.Objects assertNotNull info actual  37
+org.assertj.core.internal.StandardComparisonStrategy instance  38
+org.assertj.core.internal.Arrays assertIsArray info array  36
+org.assertj.core.util.Arrays isArray o  37
+org.assertj.core.util.IterableUtil sizeOf iterable  36
+org.assertj.core.util.Preconditions checkNotNull reference message  37
+org.assertj.core.internal.CommonValidations hasSameSizeAsCheck info actual other sizeOfActual  36
+org.assertj.core.internal.CommonValidations checkOtherIsNotNull other otherType  37
+org.assertj.core.util.Preconditions checkNotNull reference message  38
+org.assertj.core.internal.CommonValidations checkSameSizes info actual sizeOfActual sizeOfOther  37
+org.assertj.core.util.Lists newArrayList elements  35
+org.assertj.core.util.Lists newArrayList  36
+org.assertj.core.internal.IterableDiff diff actual expected comparisonStrategy  35
+org.assertj.core.internal.IterableDiff unexpectedElements actual expected  37
+org.assertj.core.internal.IterableDiff iterableContains actual value  38
+org.assertj.core.internal.StandardComparisonStrategy iterableContains iterable value  39
+org.assertj.core.internal.StandardComparisonStrategy areEqual actual other  40
+org.assertj.core.util.Objects areEqual o1 o2  41
+org.assertj.core.internal.IterableDiff missingElements actual expected  37
+org.assertj.core.internal.IterableDiff iterableContains actual value  38
+org.assertj.core.internal.StandardComparisonStrategy iterableContains iterable value  39
+org.assertj.core.internal.StandardComparisonStrategy areEqual actual other  40
+org.assertj.core.util.Objects areEqual o1 o2  41
+org.assertj.core.internal.IterableDiff differencesFound  35
+org.assertj.core.internal.Iterables areEqual actual other  35
+org.assertj.core.internal.StandardComparisonStrategy areEqual actual other  36
+org.assertj.core.util.Objects areEqual o1 o2  37
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_class_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.Failures instance  39
+org.assertj.core.internal.StandardComparisonStrategy instance  39
+org.assertj.core.internal.Classes instance  37
+org.assertj.core.api.AbstractClassAssert isInterface  32
+org.assertj.core.internal.Classes assertIsInterface info actual  33
+org.assertj.core.internal.Classes assertNotNull info actual  34
+org.assertj.core.internal.Objects instance  35
+org.assertj.core.internal.Objects assertNotNull info actual  35
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_doublePredicate_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForInterfaceTypes assertThat actual  34
+org.assertj.core.api.DoublePredicateAssert toPredicate actual  36
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.Iterables instance  37
+org.assertj.core.api.DoublePredicateAssert accepts values  32
+org.assertj.core.api.AbstractPredicateLikeAssert acceptsInternal value  33
+org.assertj.core.api.AbstractAssert isNotNull  34
+org.assertj.core.internal.Objects assertNotNull info actual  35
+org.assertj.core.api.WithAssertions_delegation_Test lambda$7 d  34
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 expected  25
+com.sun.proxy.$Proxy1 expected  25
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_linesOf_with_charsetTest  32
+org.assertj.core.api.WithAssertions linesOf file  33
+org.assertj.core.api.Assertions linesOf file  34
+org.assertj.core.util.Files linesOf file charset  35
+org.assertj.core.util.Preconditions checkNotNull reference message  36
+org.assertj.core.util.Files loadLines file charset  36
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_within_double_Test  31
+org.assertj.core.api.WithAssertions within value  32
+org.assertj.core.api.Assertions within value  33
+org.assertj.core.data.Offset offset value  34
+org.assertj.core.util.Preconditions checkNotNull reference  35
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  35
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  37
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.api.AbstractAssert isNotNull  32
+org.assertj.core.internal.Objects assertNotNull info actual  33
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_optionalLong_Test  31
+org.assertj.core.api.WithAssertions assertThat optional  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.api.AbstractOptionalLongAssert isPresent  32
+org.assertj.core.api.AbstractAssert isNotNull  33
+org.assertj.core.internal.Objects assertNotNull info actual  34
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_path_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForInterfaceTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  39
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.Comparables instance  38
+org.assertj.core.internal.NioFilesWrapper instance  39
+org.assertj.core.internal.Failures instance  40
+org.assertj.core.internal.Paths instance  37
+org.assertj.core.api.AbstractAssert isNotNull  32
+org.assertj.core.internal.Objects assertNotNull info actual  33
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_AssertDelegateTarget_Test  31
+org.assertj.core.api.WithAssertions assertThat assertion  32
+org.assertj.core.api.Assertions assertThat assertion  33
+org.assertj.core.api.WithAssertions_delegation_Test.TestAssertDelegate isOk  32
+org.assertj.core.api.WithAssertions assertThat actual  33
+org.assertj.core.api.Assertions assertThat actual  34
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  35
+org.assertj.core.internal.Objects instance  39
+org.assertj.core.internal.Conditions instance  39
+org.assertj.core.configuration.ConfigurationProvider representation  40
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  40
+org.assertj.core.util.Preconditions checkNotNull reference message  41
+org.assertj.core.internal.Booleans instance  38
+org.assertj.core.api.AbstractAssert isNotNull  33
+org.assertj.core.internal.Objects assertNotNull info actual  34
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_date_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.StandardComparisonStrategy instance  39
+org.assertj.core.internal.Failures instance  40
+org.assertj.core.internal.Dates instance  37
+org.assertj.core.api.AbstractDateAssert isAfter dateAsString  32
+org.assertj.core.api.AbstractDateAssert parse dateAsString  33
+org.assertj.core.api.AbstractDateAssert parseDateWith dateAsString dateFormats  34
+org.assertj.core.api.AbstractDateAssert parseDateWithDefaultDateFormats dateAsString  34
+org.assertj.core.api.AbstractDateAssert parseDateWith dateAsString dateFormats  35
+org.assertj.core.api.AbstractDateAssert isAfter other  33
+org.assertj.core.internal.Dates assertIsAfter info actual other  34
+org.assertj.core.internal.Dates assertNotNull info actual  35
+org.assertj.core.internal.Objects instance  36
+org.assertj.core.internal.Objects assertNotNull info actual  36
+org.assertj.core.internal.Dates dateParameterIsNotNull date  35
+org.assertj.core.util.Preconditions checkNotNull reference message  36
+org.assertj.core.internal.Dates isAfter actual other  35
+org.assertj.core.internal.StandardComparisonStrategy isGreaterThan actual other  36
+org.assertj.core.internal.StandardComparisonStrategy checkArgumentIsComparable actual  37
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  38
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_stream_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForInterfaceTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  41
+org.assertj.core.internal.Conditions instance  41
+org.assertj.core.configuration.ConfigurationProvider representation  42
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  42
+org.assertj.core.util.Preconditions checkNotNull reference message  43
+org.assertj.core.internal.Iterables instance  40
+org.assertj.core.internal.StandardComparisonStrategy instance  41
+org.assertj.core.internal.Failures instance  42
+org.assertj.core.internal.Lists instance  39
+org.assertj.core.api.AbstractIterableAssert hasSize expected  32
+org.assertj.core.internal.Iterables assertHasSize info actual expectedSize  33
+org.assertj.core.internal.Iterables assertNotNull info actual  34
+org.assertj.core.internal.Objects instance  35
+org.assertj.core.internal.Objects assertNotNull info actual  35
+org.assertj.core.util.IterableUtil sizeOf iterable  34
+org.assertj.core.util.Preconditions checkNotNull reference message  35
+org.assertj.core.api.ListAssert.ListFromStream size  35
+org.assertj.core.api.ListAssert.ListFromStream initList  36
+org.assertj.core.util.Lists newArrayList elements  37
+org.assertj.core.util.Lists newArrayList  38
+org.assertj.core.internal.CommonValidations checkSizes actual sizeOfActual sizeOfOther info  34
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_long_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  39
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.Comparables instance  38
+org.assertj.core.internal.StandardComparisonStrategy instance  41
+org.assertj.core.internal.Failures instance  42
+org.assertj.core.internal.Longs instance  37
+org.assertj.core.api.AbstractLongAssert isEqualTo expected  32
+org.assertj.core.internal.Comparables assertEqual info actual expected  33
+org.assertj.core.internal.Comparables assertNotNull info actual  34
+org.assertj.core.internal.Objects instance  35
+org.assertj.core.internal.Objects assertNotNull info actual  35
+org.assertj.core.internal.Comparables areEqual actual expected  34
+org.assertj.core.internal.StandardComparisonStrategy areEqual actual other  35
+org.assertj.core.util.Objects areEqual o1 o2  36
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  39
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.Comparables instance  38
+org.assertj.core.internal.Longs instance  37
+org.assertj.core.api.AbstractAssert isEqualTo expected  32
+org.assertj.core.internal.Objects assertEqual info actual expected  33
+org.assertj.core.internal.Objects areEqual actual other  34
+org.assertj.core.internal.StandardComparisonStrategy areEqual actual other  35
+org.assertj.core.util.Objects areEqual o1 o2  36
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_byte_array_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.internal.StandardComparisonStrategy instance  39
+org.assertj.core.internal.Arrays instance  40
+org.assertj.core.internal.Failures instance  40
+org.assertj.core.internal.ByteArrays setArrays arrays  40
+org.assertj.core.internal.ByteArrays instance  37
+org.assertj.core.api.AbstractByteArrayAssert isNotEmpty  32
+org.assertj.core.internal.ByteArrays assertNotEmpty info actual  33
+org.assertj.core.internal.Arrays assertNotEmpty info failures array  34
+org.assertj.core.internal.Arrays assertNotNull info array  35
+org.assertj.core.internal.Objects instance  36
+org.assertj.core.internal.Objects assertNotNull info actual  36
+org.assertj.core.internal.Arrays isArrayEmpty array  35
+org.assertj.core.internal.Arrays sizeOf array  36
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_input_stream_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.Failures instance  39
+org.assertj.core.internal.InputStreams instance  37
+org.assertj.core.api.AbstractAssert isNotNull  32
+org.assertj.core.internal.Objects assertNotNull info actual  33
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_optional_Test  31
+org.assertj.core.api.WithAssertions assertThat optional  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.StandardComparisonStrategy instance  37
+org.assertj.core.api.AbstractOptionalAssert isPresent  32
+org.assertj.core.api.AbstractOptionalAssert assertValueIsPresent  33
+org.assertj.core.api.AbstractAssert isNotNull  34
+org.assertj.core.internal.Objects assertNotNull info actual  35
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_map_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForInterfaceTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  39
+org.assertj.core.internal.Conditions instance  39
+org.assertj.core.configuration.ConfigurationProvider representation  40
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  40
+org.assertj.core.util.Preconditions checkNotNull reference message  41
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  38
+org.assertj.core.internal.TypeComparators put clazz comparator  39
+org.assertj.core.internal.TypeComparators put clazz comparator  39
+org.assertj.core.internal.Failures instance  39
+org.assertj.core.internal.Conditions instance  39
+org.assertj.core.internal.Maps instance  37
+org.assertj.core.api.AbstractMapAssert isEmpty  32
+org.assertj.core.internal.Maps assertEmpty info actual  33
+org.assertj.core.internal.Maps assertNotNull info actual  34
+org.assertj.core.internal.Objects instance  35
+org.assertj.core.internal.Objects assertNotNull info actual  35
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_char_array_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.internal.StandardComparisonStrategy instance  39
+org.assertj.core.internal.Arrays instance  40
+org.assertj.core.internal.Failures instance  40
+org.assertj.core.internal.CharArrays setArrays arrays  40
+org.assertj.core.internal.CharArrays instance  37
+org.assertj.core.api.AbstractCharArrayAssert containsOnlyOnce values  32
+org.assertj.core.internal.CharArrays assertContainsOnlyOnce info actual values  33
+org.assertj.core.internal.Arrays assertContainsOnlyOnce info failures actual values  34
+org.assertj.core.internal.Arrays commonChecks info actual sequence  35
+org.assertj.core.internal.Arrays checkNulls info actual sequence  36
+org.assertj.core.internal.Arrays checkIsNotNull values  37
+org.assertj.core.internal.Arrays assertNotNull info array  37
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Objects assertNotNull info actual  38
+org.assertj.core.internal.Arrays isArrayEmpty array  36
+org.assertj.core.internal.Arrays sizeOf array  37
+org.assertj.core.internal.Arrays failIfEmptySinceActualIsNotEmpty values  36
+org.assertj.core.internal.Arrays isArrayEmpty array  37
+org.assertj.core.internal.Arrays sizeOf array  38
+org.assertj.core.internal.Arrays asList array  35
+org.assertj.core.util.Arrays isArray o  36
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  36
+org.assertj.core.internal.StandardComparisonStrategy duplicatesFrom iterable  35
+org.assertj.core.internal.AbstractComparisonStrategy duplicatesFrom iterable  36
+org.assertj.core.util.IterableUtil isNullOrEmpty iterable  37
+org.assertj.core.internal.StandardComparisonStrategy newSetUsingComparisonStrategy  37
+org.assertj.core.internal.StandardComparisonStrategy newSetUsingComparisonStrategy  37
+null compare o1 o2  40
+org.assertj.core.internal.StandardComparisonStrategy areEqual actual other  41
+org.assertj.core.util.Objects areEqual o1 o2  42
+null compare o1 o2  41
+org.assertj.core.internal.StandardComparisonStrategy areEqual actual other  42
+org.assertj.core.util.Objects areEqual o1 o2  43
+org.assertj.core.util.Objects areEqualArrays o1 o2  44
+org.assertj.core.util.Arrays isArray o  45
+org.assertj.core.util.Objects hashCodeFor o  42
+org.assertj.core.util.Arrays isArray o  43
+org.assertj.core.util.Objects hashCodeFor o  42
+org.assertj.core.util.Arrays isArray o  43
+null compare o1 o2  39
+org.assertj.core.internal.StandardComparisonStrategy areEqual actual other  40
+org.assertj.core.util.Objects areEqual o1 o2  41
+org.assertj.core.util.Objects areEqualArrays o1 o2  42
+org.assertj.core.util.Arrays isArray o  43
+org.assertj.core.util.Objects hashCodeFor o  40
+org.assertj.core.util.Arrays isArray o  41
+org.assertj.core.util.Objects hashCodeFor o  40
+org.assertj.core.util.Arrays isArray o  41
+org.assertj.core.internal.Arrays asList array  35
+org.assertj.core.util.Arrays isArray o  36
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  36
+org.assertj.core.internal.Arrays arrayContains array value  35
+org.assertj.core.internal.AbstractComparisonStrategy arrayContains array value  36
+org.assertj.core.internal.StandardComparisonStrategy areEqual actual other  37
+org.assertj.core.util.Objects areEqual o1 o2  38
+org.assertj.core.internal.Arrays iterableContains actual value  35
+org.assertj.core.internal.StandardComparisonStrategy iterableContains iterable value  36
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_within_float_Test  31
+org.assertj.core.api.WithAssertions within value  32
+org.assertj.core.api.Assertions within value  33
+org.assertj.core.data.Offset offset value  34
+org.assertj.core.util.Preconditions checkNotNull reference  35
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  35
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  37
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.api.AbstractAssert isNotNull  32
+org.assertj.core.internal.Objects assertNotNull info actual  33
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_not_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.Strings instance  37
+org.assertj.core.api.WithAssertions not condition  32
+org.assertj.core.api.Assertions not condition  33
+org.assertj.core.condition.Not not condition  34
+org.assertj.core.api.Condition as newDescription args  38
+org.assertj.core.util.Arrays isNullOrEmpty array  40
+org.assertj.core.util.Arrays isEmpty array  41
+org.assertj.core.api.AbstractAssert is condition  32
+org.assertj.core.internal.Conditions assertIs info actual condition  33
+org.assertj.core.internal.Conditions assertIsNotNull condition  34
+org.assertj.core.internal.Conditions assertIsNotNull condition format args  35
+org.assertj.core.util.Preconditions checkNotNull reference message  36
+org.assertj.core.condition.Negative matches value  34
+null matches value  36
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_character_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  39
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.Comparables instance  38
+org.assertj.core.internal.StandardComparisonStrategy instance  40
+org.assertj.core.internal.Failures instance  41
+org.assertj.core.internal.Characters instance  37
+org.assertj.core.api.AbstractCharacterAssert isLowerCase  32
+org.assertj.core.internal.Characters assertLowerCase info actual  33
+org.assertj.core.internal.Comparables assertNotNull info actual  34
+org.assertj.core.internal.Objects instance  35
+org.assertj.core.internal.Objects assertNotNull info actual  35
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_zoned_date_time_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  39
+org.assertj.core.internal.Conditions instance  39
+org.assertj.core.configuration.ConfigurationProvider representation  40
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  40
+org.assertj.core.util.Preconditions checkNotNull reference message  41
+org.assertj.core.internal.StandardComparisonStrategy instance  39
+org.assertj.core.internal.Failures instance  40
+org.assertj.core.api.AbstractZonedDateTimeAssert isAfter dateTimeAsString  32
+org.assertj.core.api.AbstractZonedDateTimeAssert assertDateTimeAsStringParameterIsNotNull dateTimeAsString  33
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  34
+org.assertj.core.api.AbstractZonedDateTimeAssert parse dateTimeAsString  33
+org.assertj.core.api.AbstractZonedDateTimeAssert sameInstantInActualTimeZone zonedDateTime  34
+org.assertj.core.api.AbstractZonedDateTimeAssert isAfter other  33
+org.assertj.core.internal.Objects instance  34
+org.assertj.core.internal.Objects assertNotNull info actual  34
+org.assertj.core.api.AbstractZonedDateTimeAssert assertDateTimeParameterIsNotNull dateTime  34
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  35
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_int_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  39
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.Comparables instance  38
+org.assertj.core.internal.Integers instance  37
+org.assertj.core.api.AbstractIntegerAssert isGreaterThan other  32
+org.assertj.core.internal.Comparables assertGreaterThan info actual other  33
+org.assertj.core.internal.Comparables assertNotNull info actual  34
+org.assertj.core.internal.Objects instance  35
+org.assertj.core.internal.Objects assertNotNull info actual  35
+org.assertj.core.internal.Comparables isGreaterThan actual other  34
+org.assertj.core.internal.StandardComparisonStrategy isGreaterThan actual other  35
+org.assertj.core.internal.StandardComparisonStrategy checkArgumentIsComparable actual  36
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  37
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 expected  25
+com.sun.proxy.$Proxy1 expected  25
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_fail_Test  32
+org.assertj.core.api.WithAssertions fail failureMessage  33
+org.assertj.core.api.Assertions fail failureMessage  34
+org.assertj.core.api.Fail fail failureMessage  35
+org.assertj.core.internal.Failures instance  36
+org.assertj.core.internal.Failures failure message  36
+org.assertj.core.internal.Failures removeAssertJRelatedElementsFromStackTraceIfNeeded assertionError  37
+org.assertj.core.util.Throwables removeAssertJRelatedElementsFromStackTrace throwable  38
+org.assertj.core.util.Lists newArrayList elements  39
+org.assertj.core.util.Lists newArrayList  40
+org.assertj.core.internal.Failures printThreadDumpIfNeeded  37
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_short_array_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.internal.StandardComparisonStrategy instance  39
+org.assertj.core.internal.Arrays instance  40
+org.assertj.core.internal.Failures instance  40
+org.assertj.core.internal.ShortArrays setArrays arrays  40
+org.assertj.core.internal.ShortArrays instance  37
+org.assertj.core.api.AbstractShortArrayAssert hasSize expected  32
+org.assertj.core.internal.ShortArrays assertHasSize info actual expectedSize  33
+org.assertj.core.internal.Arrays assertHasSize info failures array expectedSize  34
+org.assertj.core.internal.Arrays assertNotNull info array  35
+org.assertj.core.internal.Objects instance  36
+org.assertj.core.internal.Objects assertNotNull info actual  36
+org.assertj.core.internal.Arrays sizeOf array  35
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_long_array_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.internal.StandardComparisonStrategy instance  39
+org.assertj.core.internal.Arrays instance  40
+org.assertj.core.internal.Failures instance  40
+org.assertj.core.internal.LongArrays setArrays arrays  40
+org.assertj.core.internal.LongArrays instance  37
+org.assertj.core.api.AbstractLongArrayAssert hasSize expected  32
+org.assertj.core.internal.LongArrays assertHasSize info actual expectedSize  33
+org.assertj.core.internal.Arrays assertHasSize info failures array expectedSize  34
+org.assertj.core.internal.Arrays assertNotNull info array  35
+org.assertj.core.internal.Objects instance  36
+org.assertj.core.internal.Objects assertNotNull info actual  36
+org.assertj.core.internal.Arrays sizeOf array  35
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_local_date_Test  31
+org.assertj.core.api.WithAssertions assertThat localDate  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat localDate  34
+org.assertj.core.internal.Objects instance  39
+org.assertj.core.internal.Conditions instance  39
+org.assertj.core.configuration.ConfigurationProvider representation  40
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  40
+org.assertj.core.util.Preconditions checkNotNull reference message  41
+org.assertj.core.internal.StandardComparisonStrategy instance  39
+org.assertj.core.internal.Failures instance  40
+org.assertj.core.api.AbstractAssert isNotNull  32
+org.assertj.core.internal.Objects assertNotNull info actual  33
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThatThrownBy_Test  31
+org.assertj.core.api.WithAssertions assertThatThrownBy shouldRaiseThrowable  32
+org.assertj.core.api.Assertions assertThatThrownBy shouldRaiseThrowable  33
+org.assertj.core.api.Assertions catchThrowable shouldRaiseThrowable  34
+org.assertj.core.api.AssertionsForClassTypes catchThrowable shouldRaiseThrowable  35
+org.assertj.core.api.ThrowableAssert catchThrowable shouldRaiseThrowable  36
+org.assertj.core.api.WithAssertions_delegation_Test lambda$2  37
+org.assertj.core.api.Assertions assertThat actual  34
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  35
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  39
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.Throwables instance  38
+org.assertj.core.api.AbstractThrowableAssert hasBeenThrown  34
+org.assertj.core.api.AbstractThrowableAssert hasMessage message  32
+org.assertj.core.internal.Throwables assertHasMessage info actual message  33
+org.assertj.core.internal.Throwables assertNotNull info actual  34
+org.assertj.core.internal.Objects instance  35
+org.assertj.core.internal.Objects assertNotNull info actual  35
+org.assertj.core.util.Objects areEqual o1 o2  34
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_setRemoveAssertJRelatedElementsFromStackTrace_Test  31
+org.assertj.core.api.WithAssertions setRemoveAssertJRelatedElementsFromStackTrace removeAssertJRelatedElementsFromStackTrace  32
+org.assertj.core.api.Assertions setRemoveAssertJRelatedElementsFromStackTrace removeAssertJRelatedElementsFromStackTrace  33
+org.assertj.core.api.Fail setRemoveAssertJRelatedElementsFromStackTrace removeAssertJRelatedElementsFromStackTrace  34
+org.assertj.core.internal.Failures instance  35
+org.assertj.core.internal.Failures setRemoveAssertJRelatedElementsFromStackTrace removeAssertJRelatedElementsFromStackTrace  35
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_anyOf_iterable_Test  31
+org.assertj.core.api.WithAssertions anyOf conditions  32
+org.assertj.core.api.Assertions anyOf conditions  33
+org.assertj.core.condition.AnyOf anyOf conditions  34
+org.assertj.core.api.Condition as newDescription args  38
+org.assertj.core.util.Arrays isNullOrEmpty array  40
+org.assertj.core.util.Arrays isEmpty array  41
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  37
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.api.AbstractAssert isNotNull  32
+org.assertj.core.internal.Objects assertNotNull info actual  33
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_double_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  39
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.Comparables instance  38
+org.assertj.core.internal.Doubles instance  37
+org.assertj.core.api.AbstractDoubleAssert isGreaterThan other  32
+org.assertj.core.internal.Comparables assertGreaterThan info actual other  33
+org.assertj.core.internal.Comparables assertNotNull info actual  34
+org.assertj.core.internal.Objects instance  35
+org.assertj.core.internal.Objects assertNotNull info actual  35
+org.assertj.core.internal.Comparables isGreaterThan actual other  34
+org.assertj.core.internal.StandardComparisonStrategy isGreaterThan actual other  35
+org.assertj.core.internal.StandardComparisonStrategy checkArgumentIsComparable actual  36
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  37
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  39
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.Comparables instance  38
+org.assertj.core.internal.Doubles instance  37
+org.assertj.core.api.AbstractComparableAssert isGreaterThan other  32
+org.assertj.core.internal.Comparables assertGreaterThan info actual other  33
+org.assertj.core.internal.Comparables assertNotNull info actual  34
+org.assertj.core.internal.Objects instance  35
+org.assertj.core.internal.Objects assertNotNull info actual  35
+org.assertj.core.internal.Comparables isGreaterThan actual other  34
+org.assertj.core.internal.StandardComparisonStrategy isGreaterThan actual other  35
+org.assertj.core.internal.StandardComparisonStrategy checkArgumentIsComparable actual  36
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  37
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_filter_iterable_Test  31
+org.assertj.core.api.WithAssertions filter iterableToFilter  32
+org.assertj.core.api.Assertions filter iterableToFilter  33
+org.assertj.core.api.filter.Filters filter iterable  34
+org.assertj.core.util.Preconditions checkNotNull reference message  35
+org.assertj.core.util.Lists newArrayList elements  36
+org.assertj.core.util.Lists newArrayList  37
+org.assertj.core.api.filter.Filters with propertyOrFieldName  32
+org.assertj.core.api.filter.Filters validatePropertyOrFieldName propertyOrFieldName  33
+org.assertj.core.util.Strings isNullOrEmpty s  34
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  34
+org.assertj.core.api.filter.Filters equalsTo propertyValue  32
+org.assertj.core.api.filter.Filters checkPropertyNameToFilterOnIsNotNull  33
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  34
+org.assertj.core.util.introspection.PropertyOrFieldSupport getValueOf propertyOrFieldName input  33
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  34
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  34
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  34
+org.assertj.core.util.introspection.PropertyOrFieldSupport isNested propertyOrFieldName  34
+org.assertj.core.util.introspection.PropertyOrFieldSupport getSimpleValue propertyOrFieldName input  34
+org.assertj.core.util.introspection.PropertySupport propertyValueOf propertyName clazz target  35
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  36
+org.assertj.core.util.introspection.PropertySupport isNestedProperty propertyName  36
+org.assertj.core.util.introspection.PropertySupport propertyValue propertyName clazz target  36
+org.assertj.core.util.introspection.Introspection getPropertyGetter propertyName target  37
+org.assertj.core.util.Preconditions checkNotNullOrEmpty s  38
+org.assertj.core.util.Preconditions checkNotNullOrEmpty s message  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.util.Preconditions checkNotNull reference  38
+org.assertj.core.util.introspection.Introspection findGetter propertyName target  38
+org.assertj.core.util.introspection.Introspection findMethod name target  39
+org.assertj.core.api.WithAssertions_delegation_Test.TestItem getName  42
+org.assertj.core.api.WithAssertions_delegation_Test.TestItem getName  41
+org.assertj.core.util.Objects areEqual o1 o2  33
+org.assertj.core.util.introspection.PropertyOrFieldSupport getValueOf propertyOrFieldName input  33
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  34
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  34
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  34
+org.assertj.core.util.introspection.PropertyOrFieldSupport isNested propertyOrFieldName  34
+org.assertj.core.util.introspection.PropertyOrFieldSupport getSimpleValue propertyOrFieldName input  34
+org.assertj.core.util.introspection.PropertySupport propertyValueOf propertyName clazz target  35
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  36
+org.assertj.core.util.introspection.PropertySupport isNestedProperty propertyName  36
+org.assertj.core.util.introspection.PropertySupport propertyValue propertyName clazz target  36
+org.assertj.core.util.introspection.Introspection getPropertyGetter propertyName target  37
+org.assertj.core.util.Preconditions checkNotNullOrEmpty s  38
+org.assertj.core.util.Preconditions checkNotNullOrEmpty s message  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.util.Preconditions checkNotNull reference  38
+org.assertj.core.util.introspection.Introspection findGetter propertyName target  38
+org.assertj.core.util.introspection.Introspection findMethod name target  39
+org.assertj.core.api.WithAssertions_delegation_Test.TestItem getName  42
+org.assertj.core.api.WithAssertions_delegation_Test.TestItem getName  41
+org.assertj.core.util.Objects areEqual o1 o2  33
+org.assertj.core.util.Objects areEqualArrays o1 o2  34
+org.assertj.core.util.Arrays isArray o  35
+org.assertj.core.api.filter.Filters get  32
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.Iterables instance  37
+org.assertj.core.api.IterableAssert containsExactly values  32
+org.assertj.core.api.AbstractIterableAssert containsExactly values  33
+org.assertj.core.internal.Iterables assertContainsExactly info actual values  34
+org.assertj.core.internal.CommonValidations checkIsNotNull values  35
+org.assertj.core.internal.Iterables assertNotNull info actual  35
+org.assertj.core.internal.Objects instance  36
+org.assertj.core.internal.Objects assertNotNull info actual  36
+org.assertj.core.util.IterableUtil sizeOf iterable  35
+org.assertj.core.util.Preconditions checkNotNull reference message  36
+org.assertj.core.internal.Iterables assertHasSameSizeAs info actual other  35
+org.assertj.core.internal.Iterables assertNotNull info actual  36
+org.assertj.core.internal.Objects instance  37
+org.assertj.core.internal.Objects assertNotNull info actual  37
+org.assertj.core.internal.Arrays assertIsArray info array  36
+org.assertj.core.util.Arrays isArray o  37
+org.assertj.core.util.IterableUtil sizeOf iterable  36
+org.assertj.core.util.Preconditions checkNotNull reference message  37
+org.assertj.core.internal.CommonValidations hasSameSizeAsCheck info actual other sizeOfActual  36
+org.assertj.core.internal.CommonValidations checkOtherIsNotNull other otherType  37
+org.assertj.core.util.Preconditions checkNotNull reference message  38
+org.assertj.core.internal.CommonValidations checkSameSizes info actual sizeOfActual sizeOfOther  37
+org.assertj.core.util.Lists newArrayList elements  35
+org.assertj.core.util.Lists newArrayList  36
+org.assertj.core.internal.IterableDiff diff actual expected comparisonStrategy  35
+org.assertj.core.internal.IterableDiff unexpectedElements actual expected  37
+org.assertj.core.internal.IterableDiff iterableContains actual value  38
+org.assertj.core.internal.StandardComparisonStrategy iterableContains iterable value  39
+org.assertj.core.internal.StandardComparisonStrategy areEqual actual other  40
+org.assertj.core.util.Objects areEqual o1 o2  41
+org.assertj.core.internal.IterableDiff missingElements actual expected  37
+org.assertj.core.internal.IterableDiff iterableContains actual value  38
+org.assertj.core.internal.StandardComparisonStrategy iterableContains iterable value  39
+org.assertj.core.internal.StandardComparisonStrategy areEqual actual other  40
+org.assertj.core.util.Objects areEqual o1 o2  41
+org.assertj.core.internal.IterableDiff differencesFound  35
+org.assertj.core.internal.Iterables areEqual actual other  35
+org.assertj.core.internal.StandardComparisonStrategy areEqual actual other  36
+org.assertj.core.util.Objects areEqual o1 o2  37
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_string_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.Strings instance  37
+org.assertj.core.api.AbstractCharSequenceAssert startsWith prefix  32
+org.assertj.core.internal.Strings assertStartsWith info actual prefix  33
+org.assertj.core.internal.Strings failIfPrefixIsNull prefix  34
+org.assertj.core.util.Preconditions checkNotNull reference message  35
+org.assertj.core.internal.Strings assertNotNull info actual  34
+org.assertj.core.internal.Objects instance  35
+org.assertj.core.internal.Objects assertNotNull info actual  35
+org.assertj.core.internal.StandardComparisonStrategy stringStartsWith string prefix  34
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_doesNotHave_condition_Test  31
+org.assertj.core.api.WithAssertions doesNotHave condition  32
+org.assertj.core.api.Assertions doesNotHave condition  33
+org.assertj.core.condition.DoesNotHave doesNotHave condition  34
+org.assertj.core.api.Condition as newDescription args  38
+org.assertj.core.util.Arrays isNullOrEmpty array  40
+org.assertj.core.util.Arrays isEmpty array  41
+org.assertj.core.condition.Negative matches value  32
+null matches value  34
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.Booleans instance  37
+org.assertj.core.api.AbstractBooleanAssert isTrue  32
+org.assertj.core.api.AbstractBooleanAssert isEqualTo expected  33
+org.assertj.core.internal.Booleans assertEqual info actual expected  34
+org.assertj.core.internal.Booleans assertNotNull info actual  35
+org.assertj.core.internal.Objects instance  36
+org.assertj.core.internal.Objects assertNotNull info actual  36
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_float_array_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.internal.StandardComparisonStrategy instance  39
+org.assertj.core.internal.Arrays instance  40
+org.assertj.core.internal.Failures instance  40
+org.assertj.core.internal.FloatArrays setArrays arrays  40
+org.assertj.core.internal.FloatArrays instance  37
+org.assertj.core.api.AbstractFloatArrayAssert isNotEmpty  32
+org.assertj.core.internal.FloatArrays assertNotEmpty info actual  33
+org.assertj.core.internal.Arrays assertNotEmpty info failures array  34
+org.assertj.core.internal.Arrays assertNotNull info array  35
+org.assertj.core.internal.Objects instance  36
+org.assertj.core.internal.Objects assertNotNull info actual  36
+org.assertj.core.internal.Arrays isArrayEmpty array  35
+org.assertj.core.internal.Arrays sizeOf array  36
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_object_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  37
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.api.AbstractAssert isNotNull  32
+org.assertj.core.internal.Objects assertNotNull info actual  33
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_optionalDouble_Test  31
+org.assertj.core.api.WithAssertions assertThat optional  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.Doubles instance  37
+org.assertj.core.api.AbstractOptionalDoubleAssert isPresent  32
+org.assertj.core.api.AbstractAssert isNotNull  33
+org.assertj.core.internal.Objects assertNotNull info actual  34
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_short_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  39
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.Comparables instance  38
+org.assertj.core.internal.StandardComparisonStrategy instance  41
+org.assertj.core.internal.Failures instance  42
+org.assertj.core.internal.Shorts instance  37
+org.assertj.core.api.AbstractShortAssert isLessThan other  32
+org.assertj.core.internal.Comparables assertLessThan info actual other  33
+org.assertj.core.internal.Comparables assertNotNull info actual  34
+org.assertj.core.internal.Objects instance  35
+org.assertj.core.internal.Objects assertNotNull info actual  35
+org.assertj.core.internal.Comparables isLessThan actual other  34
+org.assertj.core.internal.StandardComparisonStrategy isLessThan actual other  35
+org.assertj.core.internal.StandardComparisonStrategy checkArgumentIsComparable actual  36
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  37
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  39
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.Comparables instance  38
+org.assertj.core.internal.Shorts instance  37
+org.assertj.core.api.AbstractComparableAssert isLessThan other  32
+org.assertj.core.internal.Comparables assertLessThan info actual other  33
+org.assertj.core.internal.Comparables assertNotNull info actual  34
+org.assertj.core.internal.Objects instance  35
+org.assertj.core.internal.Objects assertNotNull info actual  35
+org.assertj.core.internal.Comparables isLessThan actual other  34
+org.assertj.core.internal.StandardComparisonStrategy isLessThan actual other  35
+org.assertj.core.internal.StandardComparisonStrategy checkArgumentIsComparable actual  36
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  37
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_registerCustomDateFormat_Test  31
+org.assertj.core.api.WithAssertions registerCustomDateFormat userCustomDateFormatPattern  32
+org.assertj.core.api.Assertions registerCustomDateFormat userCustomDateFormatPattern  33
+org.assertj.core.api.AbstractDateAssert registerCustomDateFormat userCustomDateFormatPattern  34
+org.assertj.core.util.Preconditions checkNotNull reference message  35
+org.assertj.core.api.AbstractDateAssert registerCustomDateFormat userCustomDateFormat  35
+org.assertj.core.util.Preconditions checkNotNull reference message  36
+org.assertj.core.api.WithAssertions registerCustomDateFormat userCustomDateFormat  32
+org.assertj.core.api.Assertions registerCustomDateFormat userCustomDateFormat  33
+org.assertj.core.api.AbstractDateAssert registerCustomDateFormat userCustomDateFormat  34
+org.assertj.core.util.Preconditions checkNotNull reference message  35
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 expected  25
+com.sun.proxy.$Proxy1 expected  25
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_contentOf_Test  32
+org.assertj.core.api.WithAssertions contentOf file  33
+org.assertj.core.api.Assertions contentOf file  34
+org.assertj.core.util.Files contentOf file charset  35
+org.assertj.core.util.Preconditions checkNotNull reference message  36
+org.assertj.core.util.Files loadContents file charset  36
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_char_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  39
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.Comparables instance  38
+org.assertj.core.internal.Characters instance  37
+org.assertj.core.api.AbstractCharacterAssert isLowerCase  32
+org.assertj.core.internal.Characters assertLowerCase info actual  33
+org.assertj.core.internal.Comparables assertNotNull info actual  34
+org.assertj.core.internal.Objects instance  35
+org.assertj.core.internal.Objects assertNotNull info actual  35
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_list_assert_class_Test  31
+org.assertj.core.api.WithAssertions assertThat actual assertClass  32
+org.assertj.core.api.Assertions assertThat actual assertClass  33
+org.assertj.core.api.AssertionsForInterfaceTypes assertThat actual assertClass  34
+org.assertj.core.internal.Objects instance  39
+org.assertj.core.internal.Conditions instance  39
+org.assertj.core.configuration.ConfigurationProvider representation  40
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  40
+org.assertj.core.util.Preconditions checkNotNull reference message  41
+org.assertj.core.internal.Iterables instance  38
+org.assertj.core.internal.Lists instance  37
+org.assertj.core.api.AbstractIterableAssert first  32
+org.assertj.core.api.AbstractIterableAssert isNotEmpty  33
+org.assertj.core.internal.Iterables assertNotEmpty info actual  34
+org.assertj.core.internal.Iterables assertNotNull info actual  35
+org.assertj.core.internal.Objects instance  36
+org.assertj.core.internal.Objects assertNotNull info actual  36
+org.assertj.core.util.IterableUtil isNullOrEmpty iterable  35
+org.assertj.core.api.AbstractIterableAssert navigationDescription propertyName  33
+org.assertj.core.api.AbstractAssert descriptionText  34
+org.assertj.core.api.WritableAssertionInfo descriptionText  35
+org.assertj.core.util.Strings isNullOrEmpty s  34
+org.assertj.core.api.AbstractIterableAssert removeAssert text  34
+org.assertj.core.api.ClassBasedNavigableListAssert toAssert value description  33
+org.assertj.core.api.ClassBasedNavigableListAssert buildAssert value description clazz  34
+org.assertj.core.internal.Objects instance  42
+org.assertj.core.internal.Conditions instance  42
+org.assertj.core.configuration.ConfigurationProvider representation  43
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  43
+org.assertj.core.util.Preconditions checkNotNull reference message  44
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  41
+org.assertj.core.internal.TypeComparators put clazz comparator  42
+org.assertj.core.internal.TypeComparators put clazz comparator  42
+org.assertj.core.api.AbstractObjectAssert as description args  36
+org.assertj.core.api.AbstractAssert as description args  37
+org.assertj.core.api.AbstractAssert describedAs description args  38
+org.assertj.core.api.WritableAssertionInfo description newDescription args  39
+org.assertj.core.util.Arrays isNullOrEmpty array  41
+org.assertj.core.util.Arrays isEmpty array  42
+org.assertj.core.api.AbstractAssert isEqualTo expected  32
+org.assertj.core.internal.Objects assertEqual info actual expected  33
+org.assertj.core.internal.Objects areEqual actual other  34
+org.assertj.core.internal.StandardComparisonStrategy areEqual actual other  35
+org.assertj.core.util.Objects areEqual o1 o2  36
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_longPredicate_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForInterfaceTypes assertThat actual  34
+org.assertj.core.api.LongPredicateAssert toPredicate actual  36
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.Iterables instance  37
+org.assertj.core.api.LongPredicateAssert accepts values  32
+org.assertj.core.api.AbstractPredicateLikeAssert acceptsInternal value  33
+org.assertj.core.api.AbstractAssert isNotNull  34
+org.assertj.core.internal.Objects assertNotNull info actual  35
+org.assertj.core.api.WithAssertions_delegation_Test lambda$6 l  34
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_big_decimal_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  39
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.Comparables instance  38
+org.assertj.core.internal.StandardComparisonStrategy instance  41
+org.assertj.core.internal.Failures instance  42
+org.assertj.core.internal.BigDecimals instance  37
+org.assertj.core.api.AbstractComparableAssert isGreaterThan other  32
+org.assertj.core.internal.Comparables assertGreaterThan info actual other  33
+org.assertj.core.internal.Comparables assertNotNull info actual  34
+org.assertj.core.internal.Objects instance  35
+org.assertj.core.internal.Objects assertNotNull info actual  35
+org.assertj.core.internal.Comparables isGreaterThan actual other  34
+org.assertj.core.internal.StandardComparisonStrategy isGreaterThan actual other  35
+org.assertj.core.internal.StandardComparisonStrategy checkArgumentIsComparable actual  36
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  37
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_entry_MapEntry_Test  31
+org.assertj.core.api.WithAssertions entry key value  32
+org.assertj.core.api.Assertions entry key value  33
+org.assertj.core.data.MapEntry entry key value  34
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.Strings instance  37
+org.assertj.core.api.AbstractAssert isEqualTo expected  32
+org.assertj.core.internal.Objects assertEqual info actual expected  33
+org.assertj.core.internal.Objects areEqual actual other  34
+org.assertj.core.internal.StandardComparisonStrategy areEqual actual other  35
+org.assertj.core.util.Objects areEqual o1 o2  36
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.Strings instance  37
+org.assertj.core.api.AbstractAssert isEqualTo expected  32
+org.assertj.core.internal.Objects assertEqual info actual expected  33
+org.assertj.core.internal.Objects areEqual actual other  34
+org.assertj.core.internal.StandardComparisonStrategy areEqual actual other  35
+org.assertj.core.util.Objects areEqual o1 o2  36
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_anyOf_condition_array_Test  31
+org.assertj.core.api.WithAssertions anyOf conditions  32
+org.assertj.core.api.Assertions anyOf conditions  33
+org.assertj.core.condition.AnyOf anyOf conditions  34
+org.assertj.core.api.Condition as newDescription args  38
+org.assertj.core.util.Arrays isNullOrEmpty array  40
+org.assertj.core.util.Arrays isEmpty array  41
+org.assertj.core.condition.Join notNull condition  37
+org.assertj.core.util.Preconditions checkNotNull reference message  38
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  37
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.api.AbstractAssert isNotNull  32
+org.assertj.core.internal.Objects assertNotNull info actual  33
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_atIndex_Test  31
+org.assertj.core.api.WithAssertions atIndex index  32
+org.assertj.core.api.Assertions atIndex index  33
+org.assertj.core.data.Index atIndex value  34
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  35
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  37
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.api.AbstractAssert isNotNull  32
+org.assertj.core.internal.Objects assertNotNull info actual  33
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_intPredicate_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForInterfaceTypes assertThat actual  34
+org.assertj.core.api.IntPredicateAssert toPredicate actual  36
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.Iterables instance  37
+org.assertj.core.api.IntPredicateAssert accepts values  32
+org.assertj.core.api.AbstractPredicateLikeAssert acceptsInternal value  33
+org.assertj.core.api.AbstractAssert isNotNull  34
+org.assertj.core.internal.Objects assertNotNull info actual  35
+org.assertj.core.api.WithAssertions_delegation_Test lambda$5 i  34
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_catchThrowable_Test  31
+org.assertj.core.api.WithAssertions catchThrowable shouldRaiseThrowable  32
+org.assertj.core.api.Assertions catchThrowable shouldRaiseThrowable  33
+org.assertj.core.api.AssertionsForClassTypes catchThrowable shouldRaiseThrowable  34
+org.assertj.core.api.ThrowableAssert catchThrowable shouldRaiseThrowable  35
+org.assertj.core.api.WithAssertions_delegation_Test lambda$3  36
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  39
+org.assertj.core.internal.Conditions instance  39
+org.assertj.core.configuration.ConfigurationProvider representation  40
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  40
+org.assertj.core.util.Preconditions checkNotNull reference message  41
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  38
+org.assertj.core.internal.TypeComparators put clazz comparator  39
+org.assertj.core.internal.TypeComparators put clazz comparator  39
+org.assertj.core.internal.Throwables instance  37
+org.assertj.core.api.AbstractThrowableAssert hasMessage message  32
+org.assertj.core.internal.Throwables assertHasMessage info actual message  33
+org.assertj.core.internal.Throwables assertNotNull info actual  34
+org.assertj.core.internal.Objects instance  35
+org.assertj.core.internal.Objects assertNotNull info actual  35
+org.assertj.core.util.Objects areEqual o1 o2  34
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_byte_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  39
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.Comparables instance  38
+org.assertj.core.internal.StandardComparisonStrategy instance  41
+org.assertj.core.internal.Failures instance  42
+org.assertj.core.internal.Bytes instance  37
+org.assertj.core.api.AbstractByteAssert isGreaterThan other  32
+org.assertj.core.internal.Comparables assertGreaterThan info actual other  33
+org.assertj.core.internal.Comparables assertNotNull info actual  34
+org.assertj.core.internal.Objects instance  35
+org.assertj.core.internal.Objects assertNotNull info actual  35
+org.assertj.core.internal.Comparables isGreaterThan actual other  34
+org.assertj.core.internal.StandardComparisonStrategy isGreaterThan actual other  35
+org.assertj.core.internal.StandardComparisonStrategy checkArgumentIsComparable actual  36
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  37
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  39
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.Comparables instance  38
+org.assertj.core.internal.Bytes instance  37
+org.assertj.core.api.AbstractComparableAssert isGreaterThan other  32
+org.assertj.core.internal.Comparables assertGreaterThan info actual other  33
+org.assertj.core.internal.Comparables assertNotNull info actual  34
+org.assertj.core.internal.Objects instance  35
+org.assertj.core.internal.Objects assertNotNull info actual  35
+org.assertj.core.internal.Comparables isGreaterThan actual other  34
+org.assertj.core.internal.StandardComparisonStrategy isGreaterThan actual other  35
+org.assertj.core.internal.StandardComparisonStrategy checkArgumentIsComparable actual  36
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  37
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_object_array_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.StandardComparisonStrategy instance  39
+org.assertj.core.internal.Arrays instance  40
+org.assertj.core.internal.Failures instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.internal.ObjectArrays setArrays arrays  40
+org.assertj.core.internal.ObjectArrays instance  37
+org.assertj.core.internal.Iterables instance  37
+org.assertj.core.api.AbstractObjectArrayAssert isNotEmpty  32
+org.assertj.core.internal.ObjectArrays assertNotEmpty info actual  33
+org.assertj.core.internal.Arrays assertNotEmpty info failures array  34
+org.assertj.core.internal.Arrays assertNotNull info array  35
+org.assertj.core.internal.Objects instance  36
+org.assertj.core.internal.Objects assertNotNull info actual  36
+org.assertj.core.internal.Arrays isArrayEmpty array  35
+org.assertj.core.internal.Arrays sizeOf array  36
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 expected  25
+com.sun.proxy.$Proxy1 expected  25
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_fail_with_throwable_Test  32
+org.assertj.core.api.WithAssertions fail failureMessage realCause  33
+org.assertj.core.api.Assertions fail failureMessage realCause  34
+org.assertj.core.api.Fail fail failureMessage realCause  35
+org.assertj.core.internal.Failures instance  36
+org.assertj.core.internal.Failures failure message  36
+org.assertj.core.internal.Failures removeAssertJRelatedElementsFromStackTraceIfNeeded assertionError  37
+org.assertj.core.util.Throwables removeAssertJRelatedElementsFromStackTrace throwable  38
+org.assertj.core.util.Lists newArrayList elements  39
+org.assertj.core.util.Lists newArrayList  40
+org.assertj.core.internal.Failures printThreadDumpIfNeeded  37
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_boolean_array_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.internal.Failures instance  39
+org.assertj.core.internal.Arrays instance  39
+org.assertj.core.internal.BooleanArrays setArrays arrays  39
+org.assertj.core.internal.BooleanArrays instance  37
+org.assertj.core.api.AbstractBooleanArrayAssert hasSize expected  32
+org.assertj.core.internal.BooleanArrays assertHasSize info actual expectedSize  33
+org.assertj.core.internal.Arrays assertHasSize info failures array expectedSize  34
+org.assertj.core.internal.Arrays assertNotNull info array  35
+org.assertj.core.internal.Objects instance  36
+org.assertj.core.internal.Objects assertNotNull info actual  36
+org.assertj.core.internal.Arrays sizeOf array  35
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_comparable_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  37
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.api.AbstractAssert isNotNull  32
+org.assertj.core.internal.Objects assertNotNull info actual  33
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_tuple_Test  31
+org.assertj.core.api.WithAssertions tuple values  32
+org.assertj.core.api.Assertions tuple values  33
+org.assertj.core.groups.Tuple tuple values  34
+org.assertj.core.util.Lists newArrayList  36
+org.assertj.core.groups.Tuple toArray  32
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  37
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.api.AbstractAssert isEqualTo expected  32
+org.assertj.core.internal.Objects assertEqual info actual expected  33
+org.assertj.core.internal.Objects areEqual actual other  34
+org.assertj.core.internal.StandardComparisonStrategy areEqual actual other  35
+org.assertj.core.util.Objects areEqual o1 o2  36
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_allOf_condition_array_Test  31
+org.assertj.core.api.WithAssertions allOf conditions  32
+org.assertj.core.api.Assertions allOf conditions  33
+org.assertj.core.condition.AllOf allOf conditions  34
+org.assertj.core.api.Condition as newDescription args  38
+org.assertj.core.util.Arrays isNullOrEmpty array  40
+org.assertj.core.util.Arrays isEmpty array  41
+org.assertj.core.condition.Join notNull condition  37
+org.assertj.core.util.Preconditions checkNotNull reference message  38
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  37
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.api.AbstractAssert isNotNull  32
+org.assertj.core.internal.Objects assertNotNull info actual  33
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_allOf_iterable_Test  31
+org.assertj.core.api.WithAssertions allOf conditions  32
+org.assertj.core.api.Assertions allOf conditions  33
+org.assertj.core.condition.AllOf allOf conditions  34
+org.assertj.core.api.Condition as newDescription args  38
+org.assertj.core.util.Arrays isNullOrEmpty array  40
+org.assertj.core.util.Arrays isEmpty array  41
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  37
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.api.AbstractAssert isNotNull  32
+org.assertj.core.internal.Objects assertNotNull info actual  33
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_optionalInt_Test  31
+org.assertj.core.api.WithAssertions assertThat optional  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.Integers instance  37
+org.assertj.core.api.AbstractOptionalIntAssert isPresent  32
+org.assertj.core.api.AbstractAssert isNotNull  33
+org.assertj.core.internal.Objects assertNotNull info actual  34
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_list_assert_factory_Test  31
+org.assertj.core.api.WithAssertions assertThat actual assertFactory  32
+org.assertj.core.api.Assertions assertThat actual assertFactory  33
+org.assertj.core.api.AssertionsForInterfaceTypes assertThat actual assertFactory  34
+org.assertj.core.internal.Objects instance  39
+org.assertj.core.internal.Conditions instance  39
+org.assertj.core.configuration.ConfigurationProvider representation  40
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  40
+org.assertj.core.util.Preconditions checkNotNull reference message  41
+org.assertj.core.internal.Iterables instance  38
+org.assertj.core.internal.Lists instance  37
+org.assertj.core.api.AbstractIterableAssert first  32
+org.assertj.core.api.AbstractIterableAssert isNotEmpty  33
+org.assertj.core.internal.Iterables assertNotEmpty info actual  34
+org.assertj.core.internal.Iterables assertNotNull info actual  35
+org.assertj.core.internal.Objects instance  36
+org.assertj.core.internal.Objects assertNotNull info actual  36
+org.assertj.core.util.IterableUtil isNullOrEmpty iterable  35
+org.assertj.core.api.AbstractIterableAssert navigationDescription propertyName  33
+org.assertj.core.api.AbstractAssert descriptionText  34
+org.assertj.core.api.WritableAssertionInfo descriptionText  35
+org.assertj.core.util.Strings isNullOrEmpty s  34
+org.assertj.core.api.AbstractIterableAssert removeAssert text  34
+org.assertj.core.api.FactoryBasedNavigableListAssert toAssert value description  33
+org.assertj.core.api.WithAssertions_delegation_Test lambda$0 t  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  37
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.api.AbstractObjectAssert as description args  35
+org.assertj.core.api.AbstractAssert as description args  36
+org.assertj.core.api.AbstractAssert describedAs description args  37
+org.assertj.core.api.WritableAssertionInfo description newDescription args  38
+org.assertj.core.util.Arrays isNullOrEmpty array  40
+org.assertj.core.util.Arrays isEmpty array  41
+org.assertj.core.api.AbstractAssert isEqualTo expected  32
+org.assertj.core.internal.Objects assertEqual info actual expected  33
+org.assertj.core.internal.Objects areEqual actual other  34
+org.assertj.core.internal.StandardComparisonStrategy areEqual actual other  35
+org.assertj.core.util.Objects areEqual o1 o2  36
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_offset_Float_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  39
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.Comparables instance  38
+org.assertj.core.internal.StandardComparisonStrategy instance  42
+org.assertj.core.internal.Failures instance  43
+org.assertj.core.internal.Floats instance  37
+org.assertj.core.api.WithAssertions offset value  32
+org.assertj.core.api.Assertions offset value  33
+org.assertj.core.data.Offset offset value  34
+org.assertj.core.util.Preconditions checkNotNull reference  35
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  35
+org.assertj.core.api.AbstractFloatAssert isEqualTo expected offset  32
+org.assertj.core.internal.RealNumbers assertEqual info actual expected offset  33
+org.assertj.core.internal.Numbers assertIsCloseTo info actual expected offset  34
+org.assertj.core.internal.Comparables assertNotNull info actual  35
+org.assertj.core.internal.Objects instance  36
+org.assertj.core.internal.Objects assertNotNull info actual  36
+org.assertj.core.internal.CommonValidations checkOffsetIsNotNull offset  35
+org.assertj.core.util.Preconditions checkNotNull reference message  36
+org.assertj.core.internal.CommonValidations checkNumberIsNotNull number  35
+org.assertj.core.util.Preconditions checkNotNull reference message  36
+org.assertj.core.util.Objects areEqual o1 o2  35
+org.assertj.core.util.Objects areEqualArrays o1 o2  36
+org.assertj.core.util.Arrays isArray o  37
+org.assertj.core.internal.Floats absDiff actual other  36
+org.assertj.core.internal.RealNumbers isGreaterThan value other  35
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_int_array_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.internal.StandardComparisonStrategy instance  39
+org.assertj.core.internal.Arrays instance  40
+org.assertj.core.internal.Failures instance  40
+org.assertj.core.internal.IntArrays setArrays arrays  40
+org.assertj.core.internal.IntArrays instance  37
+org.assertj.core.api.AbstractIntArrayAssert hasSize expected  32
+org.assertj.core.internal.IntArrays assertHasSize info actual expectedSize  33
+org.assertj.core.internal.Arrays assertHasSize info failures array expectedSize  34
+org.assertj.core.internal.Arrays assertNotNull info array  35
+org.assertj.core.internal.Objects instance  36
+org.assertj.core.internal.Objects assertNotNull info actual  36
+org.assertj.core.internal.Arrays sizeOf array  35
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_double_array_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.internal.StandardComparisonStrategy instance  39
+org.assertj.core.internal.Arrays instance  40
+org.assertj.core.internal.Failures instance  40
+org.assertj.core.internal.DoubleArrays setArrays arrays  40
+org.assertj.core.internal.DoubleArrays instance  37
+org.assertj.core.api.AbstractDoubleArrayAssert hasSize expected  32
+org.assertj.core.internal.DoubleArrays assertHasSize info actual expectedSize  33
+org.assertj.core.internal.Arrays assertHasSize info failures array expectedSize  34
+org.assertj.core.internal.Arrays assertNotNull info array  35
+org.assertj.core.internal.Objects instance  36
+org.assertj.core.internal.Objects assertNotNull info actual  36
+org.assertj.core.internal.Arrays sizeOf array  35
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_file_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.Failures instance  39
+org.assertj.core.internal.Files instance  37
+org.assertj.core.api.AbstractAssert isNotNull  32
+org.assertj.core.internal.Objects assertNotNull info actual  33
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_iterable_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.Iterables instance  37
+org.assertj.core.api.IterableAssert contains values  32
+org.assertj.core.api.AbstractIterableAssert contains values  33
+org.assertj.core.internal.Iterables assertContains info actual values  34
+org.assertj.core.internal.Iterables commonCheckThatIterableAssertionSucceeds info actual sequence  35
+org.assertj.core.internal.Iterables checkNotNullIterables info actual sequence  36
+org.assertj.core.internal.CommonValidations checkIsNotNull values  37
+org.assertj.core.internal.Iterables assertNotNull info actual  37
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Objects assertNotNull info actual  38
+org.assertj.core.internal.CommonValidations failIfEmptySinceActualIsNotEmpty values  36
+org.assertj.core.internal.Iterables assertIterableContainsGivenValues actual values info  35
+org.assertj.core.internal.Iterables iterableContains actual value  36
+org.assertj.core.internal.StandardComparisonStrategy iterableContains iterable value  37
+org.assertj.core.internal.StandardComparisonStrategy areEqual actual other  38
+org.assertj.core.util.Objects areEqual o1 o2  39
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_within_big_decimal_Test  31
+org.assertj.core.api.WithAssertions within value  32
+org.assertj.core.api.Assertions within value  33
+org.assertj.core.data.Offset offset value  34
+org.assertj.core.util.Preconditions checkNotNull reference  35
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  35
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  37
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.api.AbstractAssert isNotNull  32
+org.assertj.core.internal.Objects assertNotNull info actual  33
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_iterator_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForInterfaceTypes assertThat actual  34
+org.assertj.core.api.AbstractIterableAssert toLazyIterable actual  36
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.internal.Iterables instance  39
+org.assertj.core.api.IterableAssert contains values  32
+org.assertj.core.api.AbstractIterableAssert contains values  33
+org.assertj.core.internal.Iterables assertContains info actual values  34
+org.assertj.core.internal.Iterables commonCheckThatIterableAssertionSucceeds info actual sequence  35
+org.assertj.core.internal.Iterables checkNotNullIterables info actual sequence  36
+org.assertj.core.internal.CommonValidations checkIsNotNull values  37
+org.assertj.core.internal.Iterables assertNotNull info actual  37
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Objects assertNotNull info actual  38
+org.assertj.core.api.IterableAssert.LazyIterable iterator  36
+org.assertj.core.api.IterableAssert access$100 x0  37
+org.assertj.core.api.IterableAssert toIterable iterator  38
+org.assertj.core.internal.CommonValidations failIfEmptySinceActualIsNotEmpty values  36
+org.assertj.core.internal.Iterables assertIterableContainsGivenValues actual values info  35
+org.assertj.core.internal.Iterables iterableContains actual value  36
+org.assertj.core.internal.StandardComparisonStrategy iterableContains iterable value  37
+org.assertj.core.api.IterableAssert.LazyIterable iterator  38
+org.assertj.core.internal.StandardComparisonStrategy areEqual actual other  38
+org.assertj.core.util.Objects areEqual o1 o2  39
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_list_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForInterfaceTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.internal.Iterables instance  39
+org.assertj.core.internal.Lists instance  38
+org.assertj.core.api.AbstractIterableAssert isEmpty  32
+org.assertj.core.internal.Iterables assertEmpty info actual  33
+org.assertj.core.internal.Iterables assertNotNull info actual  34
+org.assertj.core.internal.Objects instance  35
+org.assertj.core.internal.Objects assertNotNull info actual  35
+org.assertj.core.util.IterableUtil isNullOrEmpty iterable  34
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_offset_date_time_Test  31
+org.assertj.core.api.WithAssertions assertThat offsetDateTime  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  39
+org.assertj.core.internal.Conditions instance  39
+org.assertj.core.configuration.ConfigurationProvider representation  40
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  40
+org.assertj.core.util.Preconditions checkNotNull reference message  41
+org.assertj.core.internal.StandardComparisonStrategy instance  39
+org.assertj.core.internal.Failures instance  40
+org.assertj.core.api.AbstractAssert isNotNull  32
+org.assertj.core.internal.Objects assertNotNull info actual  33
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_float_Test  31
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  39
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.Comparables instance  38
+org.assertj.core.internal.Floats instance  37
+org.assertj.core.api.AbstractFloatAssert isGreaterThan other  32
+org.assertj.core.internal.Comparables assertGreaterThan info actual other  33
+org.assertj.core.internal.Comparables assertNotNull info actual  34
+org.assertj.core.internal.Objects instance  35
+org.assertj.core.internal.Objects assertNotNull info actual  35
+org.assertj.core.internal.Comparables isGreaterThan actual other  34
+org.assertj.core.internal.StandardComparisonStrategy isGreaterThan actual other  35
+org.assertj.core.internal.StandardComparisonStrategy checkArgumentIsComparable actual  36
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  37
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  40
+org.assertj.core.internal.Conditions instance  40
+org.assertj.core.configuration.ConfigurationProvider representation  41
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  41
+org.assertj.core.util.Preconditions checkNotNull reference message  42
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  39
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.TypeComparators put clazz comparator  40
+org.assertj.core.internal.Comparables instance  38
+org.assertj.core.internal.Floats instance  37
+org.assertj.core.api.AbstractComparableAssert isGreaterThan other  32
+org.assertj.core.internal.Comparables assertGreaterThan info actual other  33
+org.assertj.core.internal.Comparables assertNotNull info actual  34
+org.assertj.core.internal.Objects instance  35
+org.assertj.core.internal.Objects assertNotNull info actual  35
+org.assertj.core.internal.Comparables isGreaterThan actual other  34
+org.assertj.core.internal.StandardComparisonStrategy isGreaterThan actual other  35
+org.assertj.core.internal.StandardComparisonStrategy checkArgumentIsComparable actual  36
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  37
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 expected  25
+com.sun.proxy.$Proxy1 expected  25
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_contentOf_with_charset_Test  32
+org.assertj.core.api.WithAssertions contentOf file  33
+org.assertj.core.api.Assertions contentOf file  34
+org.assertj.core.util.Files contentOf file charset  35
+org.assertj.core.util.Preconditions checkNotNull reference message  36
+org.assertj.core.util.Files loadContents file charset  36
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_assertThat_iterable_assert_factory_Test  31
+org.assertj.core.api.WithAssertions assertThat actual assertFactory  32
+org.assertj.core.api.Assertions assertThat actual assertFactory  33
+org.assertj.core.api.AssertionsForInterfaceTypes assertThat actual assertFactory  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.Iterables instance  37
+org.assertj.core.api.AbstractIterableAssert first  32
+org.assertj.core.api.AbstractIterableAssert isNotEmpty  33
+org.assertj.core.internal.Iterables assertNotEmpty info actual  34
+org.assertj.core.internal.Iterables assertNotNull info actual  35
+org.assertj.core.internal.Objects instance  36
+org.assertj.core.internal.Objects assertNotNull info actual  36
+org.assertj.core.util.IterableUtil isNullOrEmpty iterable  35
+org.assertj.core.api.AbstractIterableAssert navigationDescription propertyName  33
+org.assertj.core.api.AbstractAssert descriptionText  34
+org.assertj.core.api.WritableAssertionInfo descriptionText  35
+org.assertj.core.util.Strings isNullOrEmpty s  34
+org.assertj.core.api.AbstractIterableAssert removeAssert text  34
+org.assertj.core.api.FactoryBasedNavigableIterableAssert toAssert value description  33
+org.assertj.core.api.WithAssertions_delegation_Test lambda$1 t  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.api.AbstractObjectAssert defaultTypeComparators  37
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.internal.TypeComparators put clazz comparator  38
+org.assertj.core.api.AbstractObjectAssert as description args  35
+org.assertj.core.api.AbstractAssert as description args  36
+org.assertj.core.api.AbstractAssert describedAs description args  37
+org.assertj.core.api.WritableAssertionInfo description newDescription args  38
+org.assertj.core.util.Arrays isNullOrEmpty array  40
+org.assertj.core.util.Arrays isEmpty array  41
+org.assertj.core.api.AbstractAssert isEqualTo expected  32
+org.assertj.core.internal.Objects assertEqual info actual expected  33
+org.assertj.core.internal.Objects areEqual actual other  34
+org.assertj.core.internal.StandardComparisonStrategy areEqual actual other  35
+org.assertj.core.util.Objects areEqual o1 o2  36
+com.sun.proxy.$Proxy1 expected  26
+com.sun.proxy.$Proxy1 timeout  25
+org.assertj.core.api.WithAssertions_delegation_Test withAssertions_extractProperty_string_Test  31
+org.assertj.core.api.WithAssertions extractProperty propertyName  32
+org.assertj.core.api.Assertions extractProperty propertyName  33
+org.assertj.core.groups.Properties extractProperty propertyName  34
+org.assertj.core.groups.Properties extractProperty propertyName propertyType  35
+org.assertj.core.groups.Properties checkIsNotNullOrEmpty propertyName  36
+org.assertj.core.util.Preconditions checkNotNull reference message  37
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  37
+org.assertj.core.util.introspection.PropertySupport instance  37
+org.assertj.core.groups.Properties from array  32
+org.assertj.core.util.ArrayWrapperList wrap array  33
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  34
+org.assertj.core.util.introspection.PropertySupport propertyValues propertyName clazz target  33
+org.assertj.core.util.IterableUtil isNullOrEmpty iterable  34
+org.assertj.core.util.ArrayWrapperList size  36
+org.assertj.core.util.ArrayWrapperList size  36
+org.assertj.core.util.introspection.PropertySupport isNestedProperty propertyName  34
+org.assertj.core.util.introspection.PropertySupport simplePropertyValues propertyName clazz target  34
+org.assertj.core.util.ArrayWrapperList size  36
+org.assertj.core.util.ArrayWrapperList get index  36
+org.assertj.core.util.ArrayWrapperList checkIsInRange index  37
+org.assertj.core.util.ArrayWrapperList size  38
+org.assertj.core.util.ArrayWrapperList size  38
+org.assertj.core.util.introspection.PropertySupport propertyValue propertyName clazz target  35
+org.assertj.core.util.introspection.Introspection getPropertyGetter propertyName target  36
+org.assertj.core.util.Preconditions checkNotNullOrEmpty s  37
+org.assertj.core.util.Preconditions checkNotNullOrEmpty s message  38
+org.assertj.core.util.Preconditions checkNotNull reference message  39
+org.assertj.core.util.Preconditions checkNotNull reference  37
+org.assertj.core.util.introspection.Introspection findGetter propertyName target  37
+org.assertj.core.util.introspection.Introspection findMethod name target  38
+org.assertj.core.api.WithAssertions_delegation_Test.TestItem getName  41
+org.assertj.core.api.WithAssertions_delegation_Test.TestItem getName  40
+org.assertj.core.util.ArrayWrapperList size  36
+org.assertj.core.util.ArrayWrapperList get index  36
+org.assertj.core.util.ArrayWrapperList checkIsInRange index  37
+org.assertj.core.util.ArrayWrapperList size  38
+org.assertj.core.util.ArrayWrapperList size  38
+org.assertj.core.util.introspection.PropertySupport propertyValue propertyName clazz target  35
+org.assertj.core.util.introspection.Introspection getPropertyGetter propertyName target  36
+org.assertj.core.util.Preconditions checkNotNullOrEmpty s  37
+org.assertj.core.util.Preconditions checkNotNullOrEmpty s message  38
+org.assertj.core.util.Preconditions checkNotNull reference message  39
+org.assertj.core.util.Preconditions checkNotNull reference  37
+org.assertj.core.util.introspection.Introspection findGetter propertyName target  37
+org.assertj.core.util.introspection.Introspection findMethod name target  38
+org.assertj.core.api.WithAssertions_delegation_Test.TestItem getName  41
+org.assertj.core.api.WithAssertions_delegation_Test.TestItem getName  40
+org.assertj.core.util.ArrayWrapperList size  36
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.Booleans instance  37
+org.assertj.core.api.AbstractBooleanAssert isTrue  32
+org.assertj.core.api.AbstractBooleanAssert isEqualTo expected  33
+org.assertj.core.internal.Booleans assertEqual info actual expected  34
+org.assertj.core.internal.Booleans assertNotNull info actual  35
+org.assertj.core.internal.Objects instance  36
+org.assertj.core.internal.Objects assertNotNull info actual  36
+org.assertj.core.api.WithAssertions extractProperty propertyName propertyType  32
+org.assertj.core.api.Assertions extractProperty propertyName propertyType  33
+org.assertj.core.groups.Properties extractProperty propertyName propertyType  34
+org.assertj.core.groups.Properties checkIsNotNullOrEmpty propertyName  35
+org.assertj.core.util.Preconditions checkNotNull reference message  36
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  36
+org.assertj.core.util.introspection.PropertySupport instance  36
+org.assertj.core.groups.Properties from array  32
+org.assertj.core.util.ArrayWrapperList wrap array  33
+org.assertj.core.util.Preconditions checkArgument expression errorMessageTemplate errorMessageArgs  34
+org.assertj.core.util.introspection.PropertySupport propertyValues propertyName clazz target  33
+org.assertj.core.util.IterableUtil isNullOrEmpty iterable  34
+org.assertj.core.util.ArrayWrapperList size  36
+org.assertj.core.util.ArrayWrapperList size  36
+org.assertj.core.util.introspection.PropertySupport isNestedProperty propertyName  34
+org.assertj.core.util.introspection.PropertySupport simplePropertyValues propertyName clazz target  34
+org.assertj.core.util.ArrayWrapperList size  36
+org.assertj.core.util.ArrayWrapperList get index  36
+org.assertj.core.util.ArrayWrapperList checkIsInRange index  37
+org.assertj.core.util.ArrayWrapperList size  38
+org.assertj.core.util.ArrayWrapperList size  38
+org.assertj.core.util.introspection.PropertySupport propertyValue propertyName clazz target  35
+org.assertj.core.util.introspection.Introspection getPropertyGetter propertyName target  36
+org.assertj.core.util.Preconditions checkNotNullOrEmpty s  37
+org.assertj.core.util.Preconditions checkNotNullOrEmpty s message  38
+org.assertj.core.util.Preconditions checkNotNull reference message  39
+org.assertj.core.util.Preconditions checkNotNull reference  37
+org.assertj.core.util.introspection.Introspection findGetter propertyName target  37
+org.assertj.core.util.introspection.Introspection findMethod name target  38
+org.assertj.core.api.WithAssertions_delegation_Test.TestItem getName  41
+org.assertj.core.api.WithAssertions_delegation_Test.TestItem getName  40
+org.assertj.core.util.ArrayWrapperList size  36
+org.assertj.core.util.ArrayWrapperList get index  36
+org.assertj.core.util.ArrayWrapperList checkIsInRange index  37
+org.assertj.core.util.ArrayWrapperList size  38
+org.assertj.core.util.ArrayWrapperList size  38
+org.assertj.core.util.introspection.PropertySupport propertyValue propertyName clazz target  35
+org.assertj.core.util.introspection.Introspection getPropertyGetter propertyName target  36
+org.assertj.core.util.Preconditions checkNotNullOrEmpty s  37
+org.assertj.core.util.Preconditions checkNotNullOrEmpty s message  38
+org.assertj.core.util.Preconditions checkNotNull reference message  39
+org.assertj.core.util.Preconditions checkNotNull reference  37
+org.assertj.core.util.introspection.Introspection findGetter propertyName target  37
+org.assertj.core.util.introspection.Introspection findMethod name target  38
+org.assertj.core.api.WithAssertions_delegation_Test.TestItem getName  41
+org.assertj.core.api.WithAssertions_delegation_Test.TestItem getName  40
+org.assertj.core.util.ArrayWrapperList size  36
+org.assertj.core.api.WithAssertions assertThat actual  32
+org.assertj.core.api.Assertions assertThat actual  33
+org.assertj.core.api.AssertionsForClassTypes assertThat actual  34
+org.assertj.core.internal.Objects instance  38
+org.assertj.core.internal.Conditions instance  38
+org.assertj.core.configuration.ConfigurationProvider representation  39
+org.assertj.core.api.WritableAssertionInfo useRepresentation newRepresentation  39
+org.assertj.core.util.Preconditions checkNotNull reference message  40
+org.assertj.core.internal.Booleans instance  37
+org.assertj.core.api.AbstractBooleanAssert isTrue  32
+org.assertj.core.api.AbstractBooleanAssert isEqualTo expected  33
+org.assertj.core.internal.Booleans assertEqual info actual expected  34
+org.assertj.core.internal.Booleans assertNotNull info actual  35
+org.assertj.core.internal.Objects instance  36
+org.assertj.core.internal.Objects assertNotNull info actual  36

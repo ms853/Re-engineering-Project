@@ -1,0 +1,16 @@
+Method Name,Method Tightness
+org/assertj/core/presentation/StandardRepresentation.toStringOf,0.002898550724637681
+org/assertj/core/presentation/StandardRepresentation.format,0.005780346820809248
+org/assertj/core/internal/DeepDifference.determineDifferences,0.0016129032258064516
+org/assertj/core/internal/DeepDifference.initStack,0.00558659217877095
+org/assertj/core/internal/DeepDifference.deepHashCode,0.004672897196261682
+org/assertj/core/internal/Strings.assertContainsSequence,0.005208333333333333
+org/assertj/core/internal/Objects.assertIsEqualToIgnoringNullFields,0.006535947712418301
+org/assertj/core/internal/Comparables.assertIsBetween,0.005235602094240838
+org/assertj/core/util/diff/DiffUtils.parseUnifiedDiff,0.002380952380952381
+org/assertj/core/util/diff/DiffUtils.generateUnifiedDiff,0.005154639175257732
+org/assertj/core/util/diff/DiffUtils.processDeltas,0.002857142857142857
+org/assertj/core/util/diff/myers/MyersDiff.buildPath,0.0035335689045936395
+org/assertj/core/util/diff/myers/MyersDiff.buildRevision,0.004761904761904762
+org/assertj/core/util/introspection/FieldUtils.getField,0.005813953488372093
+org/assertj/core/util/DateUtil.formatTimeDifference,0.002976190476190476

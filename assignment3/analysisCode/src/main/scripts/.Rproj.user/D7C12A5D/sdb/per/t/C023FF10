@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1510131333718.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C023FF10",
+    "lastKnownWriteTime" : 8070450536542895872,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "mmep2rjx10",
+        "caption" : "detailed",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=detailed&cache_key=mmep2rjx10",
+        "displayedObservations" : 1722,
+        "environment" : "",
+        "object" : "detailed",
+        "totalObservations" : 1722,
+        "variables" : 3
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

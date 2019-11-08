@@ -1,0 +1,145 @@
+Notes on initial exploration
+=============================
+
+Information obtained from the AssertJ-core repository
+
+AssertJ is a Java Library for writing assertions. Assert core provides assertions for JDK standard types and can be used with JUnit, TestNG and other test frameworks. 
+Joel Costigliola (AssertJ creator)
+AssertJ 3.x requires Java 8 or higher (use the org.assertj.core.api.Java6Assertions entry point on Android API Level < 26).
+The repository on github is called assertj-core
+Looking at the folder structure you can see that it is a maven project because of the pom.xml project dependency file.
+Released a bug fix for AssertJ-core 3.11.1 - fixed the find bugs positive on Assertions.fail methods by annotating them with @CanIgnoreReturnValue. 
+
+I cloned the git repository for assertj-core and ran git bisect start, which starts a binary search and identifies the git revision that caused an error. So the commit that introduced a bug.
+By running git bisect, this was the outcome: 
+git bisect start
+# bad: [f3bdff02953152dba5121952088b4c358b501952] Update ByteBuddy to version 1.9.6
+git bisect bad f3bdff02953152dba5121952088b4c358b501952
+
+Checking the git logs, we can see that the commit that introduced the error is from Author: Pascal Schumacher <pascalschumacher@gmx.net> and the date when the person committed was Sun Dec 16 14:37:12 2018 +0100. And the update was made to the ByteBuddy.  
+
+Issues - 61 open issues 626 closed issues. 
+
+
+Metrics and Analysis
+====================
+
+For the second half of the metrics - difficulty encountered with the test files, the Objects_assertIsEqualToComparingFieldByFieldRecursive_Test.java was not in the object directory, which caused an error. The error was a result the assertj-core maven project could not compile. 
+Also added the dependencies for the ClassMetric.java class and its dependencies to the assertj-core project. Also make sure you read the file using the process directory method and process the file names appropriately. 
+
+For the first part of task 2a) Calculating the Lines of code (LOC)
+I modified the shell script countLines such that once it gets the class file and its lines of code, it will write the contents to a csv file in the dataFiles directory. 
+
+For calculating the weighted method count, the number of nodes and it's cyclometic complexity, I have a method that computes each of the following and the results are stored in a one ArrayList.
+The contents of that array list is then written to a csv file. 
+
+I decided to modify the ClassMetrics code such that it calculates the wmc (weighted method count) by getting the sum for all the cyclomatic complexity value for each method per class.
+I then generated another csv file in which I calculated the computeTightness in order to see the cohesiveness for each method in the project, based on a given threshold.
+The threshold that I used for this metrics is for the number of nodes to be greater than a 100.  
+
+https://pdepend.org/documentation/software-metrics/weighted-method-count.html
+
+Metric for WMC
+==============
+Classes that have a WMC value of 100 and above
+----------------------------------------------
+
+org/assertj/core/presentation/StandardRepresentation
+org/assertj/core/internal/Dates
+org/assertj/core/internal/Arrays
+org/assertj/core/internal/Iterables
+org/assertj/core/internal/Maps
+org/assertj/core/internal/DeepDifference
+org/assertj/core/internal/Strings
+org/assertj/core/internal/Objects
+org/assertj/core/api/Assertions
+org/assertj/core/api/AbstractIterableAssert
+org/assertj/core/api/WithAssertions
+org/assertj/core/api/AtomicReferenceArrayAssert
+org/assertj/core/api/AssertionsForClassTypes
+org/assertj/core/api/AbstractMapAssert
+org/assertj/core/api/AbstractObjectArrayAssert
+org/assertj/core/api/Java6Assertions
+org/assertj/core/api/AbstractDateAssert
+
+Classes with a high WMC!
+
+Class Name	 Weighted Method Count
+org/assertj/core/api/AbstractIterableAssert	250
+org/assertj/core/internal/Arrays	190
+org/assertj/core/internal/Iterables	179
+org/assertj/core/api/AbstractObjectArrayAssert	171
+org/assertj/core/api/AtomicReferenceArrayAssert	166
+org/assertj/core/api/Assertions	162
+org/assertj/core/api/WithAssertions	161
+org/assertj/core/internal/Strings	148
+org/assertj/core/presentation/StandardRepresentation	131
+org/assertj/core/api/Java6Assertions	127
+
+
+
+Top 10 Classes that have a high WMC (based on test classes):
+
+Class Name	 Weighted Method Count
+org/assertj/core/api/WithAssertions_delegation_Test	98
+org/assertj/core/api/SoftAssertionsTest	70
+org/assertj/core/api/iterable/IterableAssert_extracting_Test	47
+org/assertj/core/test/StringStream	46
+org/assertj/core/api/BDDAssertions_then_Test	41
+org/assertj/core/presentation/StandardRepresentation_toStringOf_Test	41
+org/assertj/core/api/objectarray/ObjectArrayAssert_extracting_Test	40
+org/assertj/core/api/Assertions_assertThat_with_Iterator_Test	33
+org/assertj/core/internal/intarrays/IntArrays_assertContainsExactlyInAnyOrder_Test	30
+org/assertj/core/internal/chararrays/CharArrays_assertContainsExactlyInAnyOrder_Test	29
+
+
+=====Useful Commands====
+mv linesofCodeForCondition.csv ../../../../../../../../dataFiles/
+./countLines.sh <name of the file_path> or no parameters 
+
+Dynamic analysis 
+
+ajc -cp /usr/share/java/aspectjrt.jar -outxml -outjar aspects.jar Trace.java
+
+mvn package -DskipTests to package up all the dependencies in the assertj-core project. 
+
+java -javaagent:/usr/share/java/aspectjweaver.jar -cp /s_home/ms853/Documents/software-reengineering/assignment3/assignment3-ms853/analysisCode/aspects.jar:target/assertj-core-3.9.0-SNAPSHOT-jar-with-dependencies.jar:target/test-classes:/usr/share/java/junit4.jar:/usr/share/java/hamcrest-core.jar org.junit.runner.JUnitCore org.assertj.core.api.WithAssertions_delegation_Test
+
+java -javaagent:/usr/share/java/aspectjweaver.jar -cp /s_home/ms853/Documents/software-reengineering/assignment3/assignment3-ms853/analysisCode/aspects.jar:target/assertj-core-3.9.0-SNAPSHOT-jar-with-dependencies.jar:target/test-classes:/usr/share/java/junit4.jar:/usr/share/java/hamcrest-core.jar org.junit.runner.JUnitCore org.assertj.core.api.SoftAssertionsTest
+
+java -javaagent:/usr/share/java/aspectjweaver.jar -cp /s_home/ms853/Documents/software-reengineering/assignment3/assignment3-ms853/analysisCode/aspects.jar:target/assertj-core-3.9.0-SNAPSHOT-jar-with-dependencies.jar:target/test-classes:/usr/share/java/junit4.jar:/usr/share/java/hamcrest-core.jar org.junit.runner.JUnitCore org.assertj.core.api.iterable.IterableAssert_extracting_Test
+
+java -javaagent:/usr/share/java/aspectjweaver.jar -cp /s_home/ms853/Documents/software-reengineering/assignment3/assignment3-ms853/analysisCode/aspects.jar:target/assertj-core-3.9.0-SNAPSHOT-jar-with-dependencies.jar:target/test-classes:/usr/share/java/junit4.jar:/usr/share/java/hamcrest-core.jar org.junit.runner.JUnitCore org.assertj.core.api.BDDAssertions_then_Test
+
+
+java -javaagent:/usr/share/java/aspectjweaver.jar -cp /s_home/ms853/Documents/software-reengineering/assignment3/assignment3-ms853/analysisCode/aspects.jar:target/assertj-core-3.9.0-SNAPSHOT-jar-with-dependencies.jar:target/test-classes:/usr/share/java/junit4.jar:/usr/share/java/hamcrest-core.jar org.junit.runner.JUnitCore org.assertj.core.presentation.StandardRepresentation_toStringOf_Test
+
+java -javaagent:/usr/share/java/aspectjweaver.jar -cp /s_home/ms853/Documents/software-reengineering/assignment3/assignment3-ms853/analysisCode/aspects.jar:target/assertj-core-3.9.0-SNAPSHOT-jar-with-dependencies.jar:target/test-classes:/usr/share/java/junit4.jar:/usr/share/java/hamcrest-core.jar org.junit.runner.JUnitCore org.assertj.core.api.objectarray.ObjectArrayAssert_extracting_Test
+
+DID NOT DO THE TRACING FOR THIS TEST CLASS BECAUSE StringStream
+java -javaagent:/usr/share/java/aspectjweaver.jar -cp /s_home/ms853/Documents/software-reengineering/assignment3/assignment3-ms853/analysisCode/aspects.jar:target/assertj-core-3.9.0-SNAPSHOT-jar-with-dependencies.jar:target/test-classes:/usr/share/java/junit4.jar:/usr/share/java/hamcrest-core.jar org.junit.runner.JUnitCore org.assertj.core.test.StringStream
+
+Exporting class Diagram To PDF Format
+
+dot -Tpdf classDiagram.dot > classDiagram.pdf
+
+TODO
+=====
+As part of the dynamic analysis, after running the trace files and obtaining the results from the tracing of the 5 files with the highest WMC, parse the infromation of the trace file to the CSV file. That CSV file will have the number of occurances of a given class to measure how often a given class is executed later in the visualisation. 
+Then after that, modify the class diagram such that the size of the box increases if a particular method is executed in the frequently etc.
+
+Then continue the write up for the dynamic analysis.  
+
+18/01/2019 - Dynamic Analysis and Visualisation Task Completed!!!!
+
+Notes On Report
+===============
+Refer to chapter 9. of Object Orientated Re-engineering Principles on God Classes. 
+242
+CHAPTER 9. REDISTRIBUTE RESPONSIBILITIES
+
+Based on my static analysis of the methods all the class methods (who lie in the threshold of the number of branches being greater than 100) so the results I got for each class is that it had a tightness value of 1.0. This suggests that there is a high cohesion amongst those methods in the classes. Meaning that... 
+Data and functions are related. 
+
+
+

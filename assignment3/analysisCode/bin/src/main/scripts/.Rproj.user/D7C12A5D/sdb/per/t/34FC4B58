@@ -1,0 +1,18 @@
+{
+    "contents" : "library(ggplot2)\ndata <- read.csv(\"../../../outputs/Area.csv\")\nView(data)\n\n#Just show a spread of methods with respect to instruction count and Cyclomatic complexity\nggplot(data,aes(x=Nodes,y=Cyclomatic.Complexity)) + geom_point()\n\n#Add some labels for nodes with higher values of cyclomatic complexity.\nggplot(data,aes(x=Nodes,y=Cyclomatic.Complexity)) + geom_point() + \n  geom_text(data=data[data$Cyclomatic.Complexity>5,],aes(label=Method),nudge_x = 60)",
+    "created" : 1508834464707.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3005516261",
+    "id" : "34FC4B58",
+    "lastKnownWriteTime" : 1508834737,
+    "path" : "~/OneDrive - University of Leicester/Teaching/Reengineering/201718/practicalWork/StaticAnalysisLab/src/main/scripts/PlotMetrics.R",
+    "project_path" : "PlotMetrics.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_source"
+}
